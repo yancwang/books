@@ -11,6 +11,13 @@ C++ Primer Plus (5th Edition) [下载](http://yimuhe.com/file-4166719.html)<br>
 C++ Primer Plus 中文版 [下载](http://yimuhe.com/file-4166720.html)<br>
 The C++ Programming Language [下载](http://yimuhe.com/down-4166721.html)<br>
 
+Web Development
+---------------
+### Front-End
+Html5 Graphing and Data Visualization Cookbook [下载](http://yimuhe.com/file-4166742.html)<br>
+The Modern Web [下载](http://yimuhe.com/file-4166741.html)<br>
+Mastering Responsive Web Design [下载](http://yimuhe.com/file-4166743.html)<br>
+
 Big Data
 --------
 ### Hadoop
