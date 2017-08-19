@@ -14,6 +14,10 @@
   * [HBase](#hbase)
   * [Cassandra](#cassandra)
   * [Neo4j](#neo4j)
+  * [Scala](#scala)
+  * [AWS](#aws)
+* [DataScience](#datascience)
+  
   
 ---
 ## Programming Language
