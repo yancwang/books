@@ -20,6 +20,11 @@
   * [DataScience](#datascience-1)
   * [Machine Learning](#machine-learning)
   * [Deep Learning](#deep-learning)
+* [Version Control](#version-control)
+  * [Git](#git)
+* [Docker](#docker)
+* [Arduino](#arduino)
+* [3D-Printing](#3d-printing)
 ---
 ## Programming Language
 ### Java
