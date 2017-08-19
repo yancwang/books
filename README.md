@@ -21,3 +21,4 @@ Hadoop in Action [下载](http://yimuhe.com/file-4166747.html)<br>
 HBase in Action [下载](http://yimuhe.com/file-4166750.html)<br>
 ### Cassandra
 Cassandra The Definitive Guide [下载](http://yimuhe.com/file-4166751.html)<br>
+Beginning Apache Cassandra Development [下载](http://yimuhe.com/file-4166703.html)<br>
