@@ -1,16 +1,17 @@
-# Technical Books IT技术书籍
+# Technical Books
+# IT技术书籍
 ---
-* [Programming Language](#programming-language)
+* [Programming Language 编程语言](#programming-language)
   * [Java](#java)
   * [Python](#python)
   * [C++](#c)
-* [Algorithm](#algorithm)
-* [Design Pattern](#design-pattern)
-* [Web Development](#web-development)
-  * [Front-End](#front-end)
-  * [Database](#database)
+* [Algorithm 算法](#algorithm)
+* [Design Pattern 程序设计](#design-pattern)
+* [Web Development 网络编程](#web-development)
+  * [Front-End 前端](#front-end)
+  * [Database 数据库](#database)
   * [Spring MVC](#spring-mvc)
-* [Big Data](#big-data)
+* [Big Data 大数据](#big-data)
   * [Hadoop](#hadoop)
   * [HBase](#hbase)
   * [MongoDB](#mongodb)
@@ -18,15 +19,15 @@
   * [Neo4j](#neo4j)
   * [Scala](#scala)
   * [AWS](#aws)
-* [DataScience](#datascience)
-  * [DataScience](#datascience-1)
-  * [Machine Learning](#machine-learning)
-  * [Deep Learning](#deep-learning)
-* [Version Control](#version-control)
+* [DataScience 数据科学](#datascience)
+  * [DataScience 数据科学](#datascience-1)
+  * [Machine Learning 机器学习](#machine-learning)
+  * [Deep Learning 深度学习](#deep-learning)
+* [Version Control 版本控制](#version-control)
   * [Git](#git)
 * [Docker](#docker)
 * [Arduino](#arduino)
-* [3D-Printing](#3d-printing)
+* [3D-Printing 3D打印](#3d-printing)
 ---
 ## Programming Language
 ### Java
