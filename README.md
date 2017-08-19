@@ -4,6 +4,11 @@ Programming Language
 --------------------
 ### Java
 [下载]()<br>
+Effective Java 2nd Edition-Joshua Bloch [下载]()<br>
+Java A Beginner's Guide Sixth Edition [下载]()<br>
+Java Concurrency in Practice [下载]()<br>
+Java The Complete Reference Ninth Edition [下载]()<br>
+Learning Java By Building Android Games [下载]()<br>
 ### C++
 C++ How to Program [下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [下载](http://yimuhe.com/file-4166718.html)<br>
@@ -16,19 +21,27 @@ Algorithm
 Algorithm Essentials-Java [下载](http://yimuhe.com/file-4166600.html)<br>
 Algorithms-Robert Sedgewick and Kevin Wayne [下载](http://yimuhe.com/file-4166604.html)<br>
 Algorithms 4th Edition Sedgewick Wayne [下载](http://yimuhe.com/file-4166602.html)<br>
+
+Design Pattern
+--------------
 Pattern-Oriented Software Architecture [下载](http://yimuhe.com/file-4166615.html)<br>
+Design Patterns, Elements of Reusable Object-Oriented Software [下载]()<br>
+Head First Design Patterns [下载]()<br>
+Head First Object-Oriented Analysis and Design [下载]()<br>
 
 Web Development
 ---------------
 ### Front-End
 The Modern Web [下载](http://yimuhe.com/file-4166741.html)<br>
 Mastering Responsive Web Design [下载](http://yimuhe.com/file-4166743.html)<br>
+RESTful Java Web Services - Second Edition [下载]()<br>
+Filthy Rich Clients [下载]()<br>
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [下载](http://yimuhe.com/file-4166612.html)<br>
 jQuery in Action 2nd Edition [下载](http://yimuhe.com/file-4166613.html)<br>
 Html5 Graphing and Data Visualization Cookbook [下载](http://yimuhe.com/file-4166742.html)<br>
-
 ### Database
 Head First PHP and MySQL [下载](http://yimuhe.com/file-4166611.html)<br>
+### Spring MVC
 
 Big Data
 --------
@@ -54,13 +67,12 @@ DataScience
 The Data Science Handbook [下载](http://yimuhe.com/file-4166618.html)<br>
 Thinking With Data [下载](http://yimuhe.com/file-4166617.html)<br>
 Data Science for Business [下载](http://yimuhe.com/file-4166610.html)<br>
-
 ### Machine Learning
-
+Machine Learning in Java [下载]()<br>
 ### Deep Learning
+Java Deep Learning Essentials [下载]()<br>
 Autonomous Robotics and Deep Learning [下载](http://yimuhe.com/file-4166606.html)<br>
 Automatic Speech Recognition - A Deep Learning Approach [下载](http://yimuhe.com/file-4166605.html)<br>
-[下载]()<br>
 
 Version Control
 -------------------
