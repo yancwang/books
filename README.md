@@ -2,7 +2,9 @@
 ---
 * [Programming Language](#programming-language)
   * [Java](#java)
-  * [c++](#c++)
+  * [c++](#c)
+* [Algorithm](#algorithm)
+* [Design Pattern](#design-pattern)
 ---
 ## Programming Language
 ### Java
