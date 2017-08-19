@@ -129,5 +129,6 @@ Mastering 3D Printing [下载](http://yimuhe.com/file-4166698.html)<br>
 The New Shop Class [下载](http://yimuhe.com/file-4166699.html)<br>
 
 ---
+Mastering Embedded Linux Programming [下载](http://yimuhe.com/file-4166767.html)<br>
 Becoming Functional [下载](http://yimuhe.com/file-4166608.html)<br>
 Becoming a Better Programmer [下载](http://yimuhe.com/file-4166607.html)<br>
