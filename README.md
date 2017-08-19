@@ -1,6 +1,8 @@
 # Technical Books
 ---
 * [Programming Language](#programming-language)
+  * [Java](#java)
+  * [c++](#c++)
 ---
 ## Programming Language
 ### Java
