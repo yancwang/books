@@ -11,6 +11,12 @@ C++ Primer Plus (5th Edition) [下载](http://yimuhe.com/file-4166719.html)<br>
 C++ Primer Plus 中文版 [下载](http://yimuhe.com/file-4166720.html)<br>
 The C++ Programming Language [下载](http://yimuhe.com/down-4166721.html)<br>
 
+Algorithm
+---------
+Algorithm Essentials Java [下载](http://yimuhe.com/file-4166600.html)<br>
+Algorithms-Robert Sedgewick and Kevin Wayne [下载](http://yimuhe.com/file-4166604.html)<br>
+Algorithms 4th Edition Sedgewick Wayne [下载](http://yimuhe.com/file-4166602.html)<br>
+
 Web Development
 ---------------
 ### Front-End
@@ -35,6 +41,13 @@ Neo4j in Action [下载](http://yimuhe.com/file-4166614.html)<br>
 Scala in Action [下载](http://yimuhe.com/file-4166616.html)<br>
 ### AWS
 Learning AWS [下载](http://yimuhe.com/file-4166702.html)<br>
+
+DataScience
+-----------
+### DataScience
+The Data Science Handbook [下载](http://yimuhe.com/file-4166618.html)<br>
+Thinking With Data [下载](http://yimuhe.com/file-4166617.html)<br>
+Data Science for Business [下载](http://yimuhe.com/file-4166610.html)<br>
 
 Version Control
 -------------------
