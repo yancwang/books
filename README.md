@@ -37,7 +37,30 @@ Java Concurrency in Practice [下载](http://yimuhe.com/file-4166758.html)<br>
 Java The Complete Reference Ninth Edition [下载](http://yimuhe.com/file-4166759.html)<br>
 Learning Java By Building Android Games [下载](http://yimuhe.com/file-4166761.html)<br>
 ### Python
-
+Advanced Machine Learning with Python [下载]()<br>
+Beginning Python From Novice to Professional 2nd Edition [下载]()<br>
+Building Machine Learning Systems with Python [下载]()<br>
+Core Python Applications Programming [下载]()<br>
+Django By Example [下载]()<br>
+Expert Python Programming [下载]()<br>
+Hadoop with Python [下载]()<br>
+Learn Python The Hard Way [下载]()<br>
+Learn Python [下载]()<br>
+Learning Data Mining With Python [下载]()<br>
+Learning Python [下载]()<br>
+Learning Scrapy [下载]()<br>
+Natural Language Processing With Python [下载]()<br>
+Numerical Python [下载]()<br>
+Pro Python [下载]()<br>
+Python Algorithms [下载]()<br>
+Python Data Analysis [下载]()<br>
+Python Data Visualization Cookbook [下载]()<br>
+Python for DataAnalysis [下载]()<br>
+Python for Probability, Statistics, and Machine Learning [下载]()<br>
+Python Machine Learning [下载]()<br>
+Python Web Development with Django [下载]()<br>
+Text Analytics with Python [下载]()<br>
+Web Scraping with Python - Ryan Mitchell [下载]()<br>
 ### C++
 C++ How to Program [下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [下载](http://yimuhe.com/file-4166718.html)<br>
