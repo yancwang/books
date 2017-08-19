@@ -29,6 +29,12 @@ HBase in Action [下载](http://yimuhe.com/file-4166750.html)<br>
 ### Cassandra
 Cassandra The Definitive Guide [下载](http://yimuhe.com/file-4166751.html)<br>
 Beginning Apache Cassandra Development [下载](http://yimuhe.com/file-4166703.html)<br>
+### Neo4j
+Neo4j in Action [下载](http://yimuhe.com/file-4166614.html)<br>
+### Scala
+Scala in Action [下载](http://yimuhe.com/file-4166616.html)<br>
+### AWS
+Learning AWS [下载](http://yimuhe.com/file-4166702.html)<br>
 
 Version Control
 -------------------
@@ -40,3 +46,15 @@ Mastering Git [下载](http://yimuhe.com/file-4166746.html)<br>
 Docker
 ------
 Docker Cookbook [下载](http://yimuhe.com/file-4166740.html)<br>
+
+Arduino
+-------
+Arduino Development Cookbook [下载](http://yimuhe.com/file-4166700.html)<br>
+
+3D Printing
+-----------
+3D Printed Science Projects [下载](http://yimuhe.com/file-4166695.html)<br>
+3D printing of polymer matrix composites-A review and prospective [下载](http://yimuhe.com/file-4166696.html)<br>
+3D printing of smart materials-A review on recent progresses in 4D printing.pdf [下载](http://yimuhe.com/file-4166697.html)<br>
+Mastering 3D Printing [下载](http://yimuhe.com/file-4166698.html)<br>
+The New Shop Class [下载](http://yimuhe.com/file-4166699.html)<br>
