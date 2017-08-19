@@ -1,9 +1,4 @@
 # Technical Books
-* [Programming Language](#programming-language)
-  * [Java](#java)
-  * [C++](#c++)
-  * [License](#license)
-<br>
 ## Programming Language
 ### Java
 [下载]()<br>
