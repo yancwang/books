@@ -17,8 +17,9 @@
   * [Scala](#scala)
   * [AWS](#aws)
 * [DataScience](#datascience)
-  
-  
+  * [DataScience](#datascience-1)
+  * [Machine Learning](#machine-learning)
+  * [Deep Learning](#deep-learning)
 ---
 ## Programming Language
 ### Java
