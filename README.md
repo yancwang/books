@@ -62,6 +62,9 @@ Automated Trading with R [Download 下载](http://yimuhe.com/file-4166814.html)<
 Building a Recommendation System with R [Download 下载](http://yimuhe.com/file-4166815.html)<br>
 Learning Bayesian Models With R [Download下载](http://yimuhe.com/file-4166809.html)<br>
 Mastering Social Media Mining With R [Download 下载](http://yimuhe.com/file-4166816.html)<br>
+### C#
+C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
+Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
 
 ## Algorithm
 Algorithm Essentials-Java [Download 下载](http://yimuhe.com/file-4166600.html)<br>
@@ -196,10 +199,8 @@ Getting Started with PowerShell [Download 下载](http://yimuhe.com/file-4166776
 Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
 Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
-Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
 Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.html)<br>
 Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<br>
 Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
 Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
-C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
