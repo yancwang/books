@@ -104,8 +104,8 @@ HBase in Action [下载](http://yimuhe.com/file-4166750.html)<br>
 MongoDB in Action, Second Edition [下载](http://yimuhe.com/file-4166770.html)<br>
 Practical MongoDB Architecting, Developing, and Administering MongoDB [下载](http://yimuhe.com/file-4166771.html)<br>
 Pro Hibernate and MongoDB [下载](http://yimuhe.com/file-4166772.html)<br>
-Pro MongoDB Development [下载](http://yimuhe.com/file-4166772.html)<br>
-The definitive guide to MongoDB [下载](http://yimuhe.com/file-4166772.html)<br>
+Pro MongoDB Development [下载](http://yimuhe.com/file-4166773.html)<br>
+The definitive guide to MongoDB [下载](http://yimuhe.com/file-4166774.html)<br>
 ### Cassandra
 Cassandra The Definitive Guide [下载](http://yimuhe.com/file-4166751.html)<br>
 Beginning Apache Cassandra Development [下载](http://yimuhe.com/file-4166703.html)<br>
