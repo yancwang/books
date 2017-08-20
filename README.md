@@ -5,7 +5,7 @@
   * [Python](#python)
   * [C++](#c)
   * [R](#r)
-  * [C#](#c-1
+  * [C#](#c-1)
 * [Algorithm 算法](#algorithm)
 * [Design Pattern 程序设计](#design-pattern)
 * [Web Development 网络编程](#web-development)
