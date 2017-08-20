@@ -42,6 +42,7 @@ Java A Beginner's Guide Sixth Edition [Download 下载](http://yimuhe.com/file-4
 Java Concurrency in Practice [Download 下载](http://yimuhe.com/file-4166758.html)<br>
 Java The Complete Reference Ninth Edition [Download 下载](http://yimuhe.com/file-4166759.html)<br>
 Learning Java By Building Android Games [Download 下载](http://yimuhe.com/file-4166761.html)<br>
+Android Programming for Beginners [Download 下载](http://yimuhe.com/file-4167220.html)<br>
 ### Python
 Beginning Python From Novice to Professional 2nd Edition [Download 下载](http://yimuhe.com/file-4166778.html)<br>
 Core Python Applications Programming [Download 下载](http://yimuhe.com/file-4166780.html)<br>
@@ -58,6 +59,7 @@ C++ How to Program [Download 下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [Download 下载](http://yimuhe.com/file-4166718.html)<br>
 C++ Primer Plus (5th Edition) [Download 下载](http://yimuhe.com/file-4166719.html)<br>
 C++ Primer Plus 中文版 [Download 下载](http://yimuhe.com/file-4166720.html)<br>
+Learning C++ by Creating Games with UE4 [Download 下载](http://yimuhe.com/file-4167221.html)<br>
 The C++ Programming Language [Download 下载](http://yimuhe.com/down-4166721.html)<br>
 ### R
 Automated Trading with R [Download 下载](http://yimuhe.com/file-4166814.html)<br>
@@ -157,6 +159,7 @@ Python Machine Learning [Download 下载](http://yimuhe.com/file-4166811.html)<b
 Autonomous Robotics and Deep Learning [Download 下载](http://yimuhe.com/file-4166606.html)<br>
 Automatic Speech Recognition - A Deep Learning Approach [Download 下载](http://yimuhe.com/file-4166605.html)<br>
 Java Deep Learning Essentials [Download 下载](http://yimuhe.com/file-4166760.html)<br>
+R Deep Learning Essentials [Download 下载](http://yimuhe.com/file-4167223.html)<br>
 ### Data Mining
 Learning Data Mining With Python [Download 下载](http://yimuhe.com/file-4166796.html)<br>
 ### Data visualization
@@ -210,3 +213,4 @@ Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
 Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
+OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
