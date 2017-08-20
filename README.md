@@ -24,6 +24,7 @@
   * [DataScience 数据科学](#datascience-1)
   * [Machine Learning 机器学习](#machine-learning)
   * [Deep Learning 深度学习](#deep-learning)
+  * [Data visualization 数据可视化](#data-visualization)
 * [Version Control 版本控制](#version-control)
   * [Git](#git)
 * [Docker](#docker)
@@ -48,7 +49,6 @@ Learn Python [下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [下载](http://yimuhe.com/file-4166797.html)<br>
 Numerical Python [下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [下载](http://yimuhe.com/file-4166786.html)<br>
-Python Data Visualization Cookbook [下载](http://yimuhe.com/file-4166810.html)<br>
 ### C++
 C++ How to Program [下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [下载](http://yimuhe.com/file-4166718.html)<br>
@@ -56,10 +56,9 @@ C++ Primer Plus (5th Edition) [下载](http://yimuhe.com/file-4166719.html)<br>
 C++ Primer Plus 中文版 [下载](http://yimuhe.com/file-4166720.html)<br>
 The C++ Programming Language [下载](http://yimuhe.com/down-4166721.html)<br>
 ### R
-Automated Trading with R [下载]()<br>
-Building a Recommendation System with R [下载]()<br>
-Mastering Social Media Mining With R [下载]()<br>
-R Data Visualization Cookbook [下载]()<br>
+Automated Trading with R [下载](http://yimuhe.com/file-4166814.html)<br>
+Building a Recommendation System with R [下载](http://yimuhe.com/file-4166815.html)<br>
+Mastering Social Media Mining With R [下载](http://yimuhe.com/file-4166816.html)<br>
 
 ## Algorithm
 Algorithm Essentials-Java [下载](http://yimuhe.com/file-4166600.html)<br>
@@ -141,6 +140,9 @@ Automatic Speech Recognition - A Deep Learning Approach [下载](http://yimuhe.c
 Java Deep Learning Essentials [下载](http://yimuhe.com/file-4166760.html)<br>
 ### Data Mining
 Learning Data Mining With Python [下载](http://yimuhe.com/file-4166796.html)<br>
+### Data visualization
+Python Data Visualization Cookbook [下载](http://yimuhe.com/file-4166810.html)<br>
+R Data Visualization Cookbook [下载](http://yimuhe.com/file-4166817.html)<br>
 
 ## Version Control
 ### Git
