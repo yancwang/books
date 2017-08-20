@@ -58,6 +58,7 @@ The C++ Programming Language [Download 下载](http://yimuhe.com/down-4166721.ht
 ### R
 Automated Trading with R [Download 下载](http://yimuhe.com/file-4166814.html)<br>
 Building a Recommendation System with R [Download 下载](http://yimuhe.com/file-4166815.html)<br>
+Learning Bayesian Models With R [Download下载](http://yimuhe.com/file-4166809.html)<br>
 Mastering Social Media Mining With R [Download 下载](http://yimuhe.com/file-4166816.html)<br>
 
 ## Algorithm
@@ -129,48 +130,47 @@ Text Analytics with Python [Download 下载](http://yimuhe.com/file-4166791.html
 The Data Science Handbook [Download 下载](http://yimuhe.com/file-4166618.html)<br>
 Thinking With Data [Download 下载](http://yimuhe.com/file-4166617.html)<br>
 ### Machine Learning
-Advanced Machine Learning with Python [下载](http://yimuhe.com/file-4166793.html)<br>
-Building Machine Learning Systems with Python [下载](http://yimuhe.com/file-4166779.html)<br>
-Machine Learning in Java [下载](http://yimuhe.com/file-4166762.html)<br>
-Python for Probability, Statistics, and Machine Learning [下载](http://yimuhe.com/file-4166789.html)<br>
-Python Machine Learning [下载](http://yimuhe.com/file-4166811.html)<br>
+Advanced Machine Learning with Python [Download 下载](http://yimuhe.com/file-4166793.html)<br>
+Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4166779.html)<br>
+Machine Learning in Java [Download 下载](http://yimuhe.com/file-4166762.html)<br>
+Python for Probability, Statistics, and Machine Learning [Download 下载](http://yimuhe.com/file-4166789.html)<br>
+Python Machine Learning [Download 下载](http://yimuhe.com/file-4166811.html)<br>
 ### Deep Learning
-Autonomous Robotics and Deep Learning [下载](http://yimuhe.com/file-4166606.html)<br>
-Automatic Speech Recognition - A Deep Learning Approach [下载](http://yimuhe.com/file-4166605.html)<br>
-Java Deep Learning Essentials [下载](http://yimuhe.com/file-4166760.html)<br>
+Autonomous Robotics and Deep Learning [Download 下载](http://yimuhe.com/file-4166606.html)<br>
+Automatic Speech Recognition - A Deep Learning Approach [Download 下载](http://yimuhe.com/file-4166605.html)<br>
+Java Deep Learning Essentials [Download 下载](http://yimuhe.com/file-4166760.html)<br>
 ### Data Mining
-Learning Data Mining With Python [下载](http://yimuhe.com/file-4166796.html)<br>
+Learning Data Mining With Python [Download 下载](http://yimuhe.com/file-4166796.html)<br>
 ### Data visualization
-Python Data Visualization Cookbook [下载](http://yimuhe.com/file-4166810.html)<br>
-R Data Visualization Cookbook [下载](http://yimuhe.com/file-4166817.html)<br>
+Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166810.html)<br>
+R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
 
 ## Version Control
 ### Git
-Git Version Control for Everyone [下载](http://yimuhe.com/file-4166744.html)<br>
-Github Essentials [下载](http://yimuhe.com/file-4166745.html)<br>
-Mastering Git [下载](http://yimuhe.com/file-4166746.html)<br>
+Git Version Control for Everyone [Download 下载](http://yimuhe.com/file-4166744.html)<br>
+Github Essentials [Download 下载](http://yimuhe.com/file-4166745.html)<br>
+Mastering Git [Download 下载](http://yimuhe.com/file-4166746.html)<br>
 
 ## Docker
-Docker Cookbook [下载](http://yimuhe.com/file-4166740.html)<br>
-Mastering Docker [下载](http://yimuhe.com/file-4166768.html)<br>
+Docker Cookbook [Download 下载](http://yimuhe.com/file-4166740.html)<br>
+Mastering Docker [Download 下载](http://yimuhe.com/file-4166768.html)<br>
 
 ## Hardware
 ### Raspberry Pi
 ### Arduino
-Arduino Development Cookbook [下载](http://yimuhe.com/file-4166700.html)<br>
+Arduino Development Cookbook [Download 下载](http://yimuhe.com/file-4166700.html)<br>
 
 ## 3D Printing
-3D Printed Science Projects [下载](http://yimuhe.com/file-4166695.html)<br>
-3D printing of polymer matrix composites-A review and prospective [下载](http://yimuhe.com/file-4166696.html)<br>
-3D printing of smart materials-A review on recent progresses in 4D printing.pdf [下载](http://yimuhe.com/file-4166697.html)<br>
-Mastering 3D Printing [下载](http://yimuhe.com/file-4166698.html)<br>
-The New Shop Class [下载](http://yimuhe.com/file-4166699.html)<br>
+3D Printed Science Projects [Download 下载](http://yimuhe.com/file-4166695.html)<br>
+3D printing of polymer matrix composites-A review and prospective [Download 下载](http://yimuhe.com/file-4166696.html)<br>
+3D printing of smart materials-A review on recent progresses in 4D printing.pdf [Download 下载](http://yimuhe.com/file-4166697.html)<br>
+Mastering 3D Printing [Download 下载](http://yimuhe.com/file-4166698.html)<br>
+The New Shop Class [Download 下载](http://yimuhe.com/file-4166699.html)<br>
 
 ---
-Mastering Embedded Linux Programming [下载](http://yimuhe.com/file-4166767.html)<br>
-Becoming Functional [下载](http://yimuhe.com/file-4166608.html)<br>
-Becoming a Better Programmer [下载](http://yimuhe.com/file-4166607.html)<br>
-OpenCV for Secret Agents [下载](http://yimuhe.com/file-4166775.html)<br>
-Getting Started with PowerShell [下载](http://yimuhe.com/file-4166776.html)<br>
-Mastering PowerShell [下载](http://yimuhe.com/file-4166777.html)<br>
-Learning Bayesian Models With R [下载](http://yimuhe.com/file-4166809.html)<br>
+Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
+Becoming Functional [Download 下载](http://yimuhe.com/file-4166608.html)<br>
+Becoming a Better Programmer [Download 下载](http://yimuhe.com/file-4166607.html)<br>
+OpenCV for Secret Agents [Download 下载](http://yimuhe.com/file-4166775.html)<br>
+Getting Started with PowerShell [Download 下载](http://yimuhe.com/file-4166776.html)<br>
+Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
