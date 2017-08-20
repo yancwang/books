@@ -92,6 +92,7 @@ Filthy Rich Clients [Download 下载](http://yimuhe.com/file-4166754.html)<br>
 Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166742.html)<br>
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
 jQuery in Action 2nd Edition [Download 下载](http://yimuhe.com/file-4166613.html)<br>
+Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167202.html)<br>
 Mastering Responsive Web Design [Download 下载](http://yimuhe.com/file-4166743.html)<br>
 Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 RESTful Java Web Services - Second Edition [Download 下载](http://yimuhe.com/file-4166763.html)<br>
