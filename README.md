@@ -145,6 +145,7 @@ Learning Data Mining With Python [Download 下载](http://yimuhe.com/file-416679
 ### Data visualization
 Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166810.html)<br>
 R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
+Beginning Python Visualization [Download 下载](http://yimuhe.com/file-4166836.html)<br>
 
 ## Version Control
 ### Git
