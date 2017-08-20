@@ -21,7 +21,7 @@
   * [Scala](#scala)
   * [AWS](#aws)
 * [DataScience 数据科学](#datascience)
-  * [Data Analysis 数据分析](#data-analysis)
+  * [Data Analysis 数据分析](#data-analysis)
   * [Machine Learning 机器学习](#machine-learning)
   * [Deep Learning 深度学习](#deep-learning)
   * [Data visualization 数据可视化](#data-visualization)
