@@ -30,7 +30,7 @@
 * [Hardware](#hardware)
   * [Raspberry Pi](#raspberry-pi)
   * [Arduino](#arduino)
-* [3D-Printing 3D打印](#3d-printing)
+* [3D Printing 3D打印](#3d-printing)
 ---
 ## Programming Language
 ### Java
