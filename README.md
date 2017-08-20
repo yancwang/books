@@ -29,7 +29,7 @@
   * [Git](#git)
 * [Docker](#docker)
 * [Hardware](#hardware)
-  * [Raspberry Pi](#raspberry-pi)
+  * [Raspberry Pi 树莓派](#raspberry-pi)
   * [Arduino](#arduino)
 * [3D Printing 3D打印](#3d-printing)
 ---
