@@ -181,6 +181,7 @@ Mastering 3D Printing [Download 下载](http://yimuhe.com/file-4166698.html)<br>
 The New Shop Class [Download 下载](http://yimuhe.com/file-4166699.html)<br>
 
 ---
+Advanced Penetration Testing for Highly-Secured Environments - Second Edition [Download 下载](http://yimuhe.com/file-4166834.html)<br>
 Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
 Becoming Functional [Download 下载](http://yimuhe.com/file-4166608.html)<br>
 Becoming a Better Programmer [Download 下载](http://yimuhe.com/file-4166607.html)<br>
