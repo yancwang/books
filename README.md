@@ -34,7 +34,7 @@
 ## Programming Language
 ### Java
 Effective Java 2nd Edition-Joshua Bloch [下载](http://yimuhe.com/file-4166753.html)<br>
-Java A Beginner's Guide Sixth Edition [下载](http://yimuhe.com/file-4166755.html)<br>
+Java A Beginner's Guide Sixth Edition [下载](http://yimuhe.com/file-4166757.html)<br>
 Java Concurrency in Practice [下载](http://yimuhe.com/file-4166758.html)<br>
 Java The Complete Reference Ninth Edition [下载](http://yimuhe.com/file-4166759.html)<br>
 Learning Java By Building Android Games [下载](http://yimuhe.com/file-4166761.html)<br>
