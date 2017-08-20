@@ -21,7 +21,7 @@
   * [Scala](#scala)
   * [AWS](#aws)
 * [DataScience 数据科学](#datascience)
-  * [DataScience 数据科学](#datascience-1)
+  * [Data Analysis 数据分析](#data-analysis)
   * [Machine Learning 机器学习](#machine-learning)
   * [Deep Learning 深度学习](#deep-learning)
   * [Data visualization 数据可视化](#data-visualization)
@@ -49,6 +49,8 @@ Learn Python [Download 下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [Download 下载](http://yimuhe.com/file-4166797.html)<br>
 Numerical Python [Download 下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [Download 下载](http://yimuhe.com/file-4166786.html)<br>
+Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
+Python Recipes Handbook [Download 下载](http://yimuhe.com/file-4167194.html)<br>
 ### C++
 C++ How to Program [Download 下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [Download 下载](http://yimuhe.com/file-4166718.html)<br>
@@ -105,6 +107,7 @@ Hadoop with Python [Download 下载](http://yimuhe.com/file-4166781.html)<br>
 ### HBase
 HBase in Action [Download 下载](http://yimuhe.com/file-4166750.html)<br>
 ### MongoDB
+MongoDB for Java Developers [Download 下载](http://yimuhe.com/file-4167190.html)<br>
 MongoDB in Action, Second Edition [Download 下载](http://yimuhe.com/file-4166770.html)<br>
 Practical MongoDB Architecting, Developing, and Administering MongoDB [Download 下载](http://yimuhe.com/file-4166771.html)<br>
 Pro Hibernate and MongoDB [Download 下载](http://yimuhe.com/file-4166772.html)<br>
@@ -121,9 +124,10 @@ Scala in Action [Download 下载](http://yimuhe.com/file-4166616.html)<br>
 Learning AWS [Download 下载](http://yimuhe.com/file-4166702.html)<br>
 
 ## DataScience
-### DataScience
+### Data Analysis
 Data Science for Business [Download 下载](http://yimuhe.com/file-4166610.html)<br>
 Exploratory Data Analysis with R [Download 下载](http://yimuhe.com/file-4166808.html)<br>
+Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
 Natural Language Processing With Python [Download 下载](http://yimuhe.com/file-4166784.html)<br>
 Python for DataAnalysis [Download 下载](http://yimuhe.com/file-4166788.html)<br>
 Python Data Analysis [Download 下载](http://yimuhe.com/file-4166799.html)<br>
@@ -192,15 +196,10 @@ Getting Started with PowerShell [Download 下载](http://yimuhe.com/file-4166776
 Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
 Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
-Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
 Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
 Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.html)<br>
 Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<br>
-MongoDB for Java Developers [Download 下载](http://yimuhe.com/file-4167190.html)<br>
 Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
-Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
-Python Recipes Handbook [Download 下载](http://yimuhe.com/file-4167194.html)<br>
 Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
-The Data Science Handbook [Download 下载](http://yimuhe.com/file-4167196.html)<br>
 C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
