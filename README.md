@@ -104,6 +104,7 @@ Pro Spring 3 [Download 下载](http://yimuhe.com/file-4166765.html)<br>
 Spring in Action 4th Edition [Download 下载](http://yimuhe.com/file-4166766.html)<br>
 ### Web Scraping
 Learning Scrapy [Download 下载](http://yimuhe.com/file-4166798.html)<br>
+Web Scraping with Python [Download 下载](http://yimuhe.com/file-4167198.html)<br>
 Web Scraping with Python - Ryan Mitchell [Download 下载](http://yimuhe.com/file-4166792.html)<br>
 
 ## Big Data
