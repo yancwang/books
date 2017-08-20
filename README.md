@@ -149,6 +149,7 @@ Thinking With Data [Download 下载](http://yimuhe.com/file-4166617.html)<br>
 ### Machine Learning
 Advanced Machine Learning with Python [Download 下载](http://yimuhe.com/file-4166793.html)<br>
 Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4166779.html)<br>
+Lean Analytics-Use Data to Build a Better Startup Faster [Download 下载](http://yimuhe.com/file-4167219.html)<br>
 Machine Learning in Java [Download 下载](http://yimuhe.com/file-4166762.html)<br>
 Python for Probability, Statistics, and Machine Learning [Download 下载](http://yimuhe.com/file-4166789.html)<br>
 Python Machine Learning [Download 下载](http://yimuhe.com/file-4166811.html)<br>
