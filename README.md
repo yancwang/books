@@ -192,3 +192,15 @@ Getting Started with PowerShell [Download 下载](http://yimuhe.com/file-4166776
 Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
 Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
+Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
+Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
+Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.html)<br>
+Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<br>
+MongoDB for Java Developers [Download 下载](http://yimuhe.com/file-4167190.html)<br>
+Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
+Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
+Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
+Python Recipes Handbook [Download 下载](http://yimuhe.com/file-4167194.html)<br>
+Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
+The Data Science Handbook [Download 下载](http://yimuhe.com/file-4167196.html)<br>
+C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
