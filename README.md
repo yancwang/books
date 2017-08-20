@@ -157,6 +157,19 @@ Mastering Docker [Download 下载](http://yimuhe.com/file-4166768.html)<br>
 
 ## Hardware
 ### Raspberry Pi
+Experimenting with Raspberry Pi [Download 下载](http://yimuhe.com/file-4166818.html)<br>
+Hello Raspberry Pi [Download 下载](http://yimuhe.com/file-4166819.html)<br>
+Learn Raspberry Pi Programming with Python [Download 下载](http://yimuhe.com/file-4166820.html)<br>
+Learning Raspberry Pi [Download 下载](http://yimuhe.com/file-4166829.html)<br>
+Raspberry Pi A Quick Start Guide [Download 下载](http://yimuhe.com/file-4166821.html)<br>
+Raspberry Pi Cookbook [Download 下载](http://yimuhe.com/file-4166822.html)<br>
+Raspberry Pi IoT Projects [Download 下载](http://yimuhe.com/file-4166823.html)<br>
+Raspberry Pi Projects for Kids [Download 下载](http://yimuhe.com/file-4166830.html)<br>
+Raspberry Pi Projects For The Evi .Genius [Download 下载](http://yimuhe.com/file-4166824.html)<br>
+Raspberry Pi Projects [Download 下载](http://yimuhe.com/file-4166825.html)<br>
+Raspberry Pi Robotic Blueprints [Download 下载](http://yimuhe.com/file-4166826.html)<br>
+Raspberry Pi Robotic Projects [Download 下载](http://yimuhe.com/file-4166827.html)<br>
+Smart Home Automation With Linux And Raspberry Pi [Download 下载](http://yimuhe.com/file-4166828.html)<br>
 ### Arduino
 Arduino Development Cookbook [Download 下载](http://yimuhe.com/file-4166700.html)<br>
 
