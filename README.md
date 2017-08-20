@@ -4,6 +4,7 @@
   * [Java](#java)
   * [Python](#python)
   * [C++](#c)
+  * [R](#r)
 * [Algorithm 算法](#algorithm)
 * [Design Pattern 程序设计](#design-pattern)
 * [Web Development 网络编程](#web-development)
@@ -25,7 +26,9 @@
 * [Version Control 版本控制](#version-control)
   * [Git](#git)
 * [Docker](#docker)
-* [Arduino](#arduino)
+* [Hardware](#hardware)
+  * [Raspberry Pi](#raspberry-pi)
+  * [Arduino](#arduino)
 * [3D-Printing 3D打印](#3d-printing)
 ---
 ## Programming Language
@@ -67,6 +70,7 @@ C++ Primer 5th edition [下载](http://yimuhe.com/file-4166718.html)<br>
 C++ Primer Plus (5th Edition) [下载](http://yimuhe.com/file-4166719.html)<br>
 C++ Primer Plus 中文版 [下载](http://yimuhe.com/file-4166720.html)<br>
 The C++ Programming Language [下载](http://yimuhe.com/down-4166721.html)<br>
+### R
 
 ## Algorithm
 Algorithm Essentials-Java [下载](http://yimuhe.com/file-4166600.html)<br>
@@ -141,7 +145,9 @@ Mastering Git [下载](http://yimuhe.com/file-4166746.html)<br>
 Docker Cookbook [下载](http://yimuhe.com/file-4166740.html)<br>
 Mastering Docker [下载](http://yimuhe.com/file-4166768.html)<br>
 
-## Arduino
+## Hardware
+### Raspberry Pi
+### Arduino
 Arduino Development Cookbook [下载](http://yimuhe.com/file-4166700.html)<br>
 
 ## 3D Printing
