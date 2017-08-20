@@ -187,3 +187,5 @@ Becoming a Better Programmer [Download 下载](http://yimuhe.com/file-4166607.ht
 OpenCV for Secret Agents [Download 下载](http://yimuhe.com/file-4166775.html)<br>
 Getting Started with PowerShell [Download 下载](http://yimuhe.com/file-4166776.html)<br>
 Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
+Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
+Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
