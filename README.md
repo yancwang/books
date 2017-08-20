@@ -78,6 +78,7 @@ Django By Example [Download 下载](http://yimuhe.com/file-4166794.html)<br>
 Mean Web Development [Download 下载](http://yimuhe.com/file-4166769.html)<br>
 Python Web Development with Django [Download 下载](http://yimuhe.com/file-4166790.html)<br>
 ### Front-End
+AngularJS Web Application Development Cookbook [Download 下载](http://yimuhe.com/file-4166835.html)<br>
 Filthy Rich Clients [Download 下载](http://yimuhe.com/file-4166754.html)<br>
 Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166742.html)<br>
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
