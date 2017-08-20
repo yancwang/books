@@ -33,37 +33,22 @@
 ---
 ## Programming Language
 ### Java
-[下载]()<br>
 Effective Java 2nd Edition-Joshua Bloch [下载](http://yimuhe.com/file-4166753.html)<br>
 Java A Beginner's Guide Sixth Edition [下载](http://yimuhe.com/file-4166755.html)<br>
 Java Concurrency in Practice [下载](http://yimuhe.com/file-4166758.html)<br>
 Java The Complete Reference Ninth Edition [下载](http://yimuhe.com/file-4166759.html)<br>
 Learning Java By Building Android Games [下载](http://yimuhe.com/file-4166761.html)<br>
 ### Python
-Advanced Machine Learning with Python [下载]()<br>
-Beginning Python From Novice to Professional 2nd Edition [下载]()<br>
-Building Machine Learning Systems with Python [下载]()<br>
-Core Python Applications Programming [下载]()<br>
-Django By Example [下载]()<br>
-Expert Python Programming [下载]()<br>
-Hadoop with Python [下载]()<br>
-Learn Python The Hard Way [下载]()<br>
-Learn Python [下载]()<br>
-Learning Data Mining With Python [下载]()<br>
-Learning Python [下载]()<br>
-Learning Scrapy [下载]()<br>
-Natural Language Processing With Python [下载]()<br>
-Numerical Python [下载]()<br>
-Pro Python [下载]()<br>
-Python Algorithms [下载]()<br>
-Python Data Analysis [下载]()<br>
+Beginning Python From Novice to Professional 2nd Edition [下载](http://yimuhe.com/file-4166778.html)<br>
+Core Python Applications Programming [下载](http://yimuhe.com/file-4166780.html)<br>
+Expert Python Programming [下载](http://yimuhe.com/file-4166795.html)<br>
+Learn Python The Hard Way [下载](http://yimuhe.com/file-4166782.html)<br>
+Learn Python [下载](http://yimuhe.com/file-4166783.html)<br>
+Learning Python [下载](http://yimuhe.com/file-4166797.html)<br>
+Numerical Python [下载](Numerical Python)<br>
+Pro Python [下载](http://yimuhe.com/file-4166786.html)<br>
 Python Data Visualization Cookbook [下载]()<br>
-Python for DataAnalysis [下载]()<br>
-Python for Probability, Statistics, and Machine Learning [下载]()<br>
 Python Machine Learning [下载]()<br>
-Python Web Development with Django [下载]()<br>
-Text Analytics with Python [下载]()<br>
-Web Scraping with Python - Ryan Mitchell [下载]()<br>
 ### C++
 C++ How to Program [下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [下载](http://yimuhe.com/file-4166718.html)<br>
@@ -76,6 +61,7 @@ The C++ Programming Language [下载](http://yimuhe.com/down-4166721.html)<br>
 Algorithm Essentials-Java [下载](http://yimuhe.com/file-4166600.html)<br>
 Algorithms-Robert Sedgewick and Kevin Wayne [下载](http://yimuhe.com/file-4166604.html)<br>
 Algorithms 4th Edition Sedgewick Wayne [下载](http://yimuhe.com/file-4166602.html)<br>
+Python Algorithms [下载](http://yimuhe.com/file-4166787.html)<br>
 
 ## Design Pattern
 Pattern-Oriented Software Architecture [下载](http://yimuhe.com/file-4166615.html)<br>
@@ -85,6 +71,8 @@ Head First Object-Oriented Analysis and Design [下载](http://yimuhe.com/file-4
 
 ## Web Development
 Mean Web Development [下载](http://yimuhe.com/file-4166769.html)<br>
+Python Web Development with Django [下载](http://yimuhe.com/file-4166790.html)<br>
+Django By Example [下载](http://yimuhe.com/file-4166794.html)<br>
 ### Front-End
 The Modern Web [下载](http://yimuhe.com/file-4166741.html)<br>
 Mastering Responsive Web Design [下载](http://yimuhe.com/file-4166743.html)<br>
@@ -99,12 +87,16 @@ Head First PHP and MySQL [下载](http://yimuhe.com/file-4166611.html)<br>
 Learning Spring Application Development [下载](http://yimuhe.com/file-4166764.html)<br>
 Pro Spring 3 [下载](http://yimuhe.com/file-4166765.html)<br>
 Spring in Action 4th Edition [下载](http://yimuhe.com/file-4166766.html)<br>
+### Web Scraping
+Web Scraping with Python - Ryan Mitchell [下载](http://yimuhe.com/file-4166792.html)<br>
+Learning Scrapy [下载](http://yimuhe.com/file-4166798.html)<br>
 
 ## Big Data
 ### Hadoop
 Hadoop The Definitive Guide [下载](http://yimuhe.com/file-4166749.html)<br>
 Hadoop in Practice, Second Edition [下载](http://yimuhe.com/file-4166748.html)<br>
 Hadoop in Action [下载](http://yimuhe.com/file-4166747.html)<br>
+Hadoop with Python [下载](http://yimuhe.com/file-4166781.html)<br>
 ### HBase
 HBase in Action [下载](http://yimuhe.com/file-4166750.html)<br>
 ### MongoDB
@@ -128,12 +120,21 @@ Learning AWS [下载](http://yimuhe.com/file-4166702.html)<br>
 The Data Science Handbook [下载](http://yimuhe.com/file-4166618.html)<br>
 Thinking With Data [下载](http://yimuhe.com/file-4166617.html)<br>
 Data Science for Business [下载](http://yimuhe.com/file-4166610.html)<br>
+Python for DataAnalysis [下载](http://yimuhe.com/file-4166788.html)<br>
+Python Data Analysis [下载](http://yimuhe.com/file-4166799.html)<br>
+Natural Language Processing With Python [下载](http://yimuhe.com/file-4166784.html)<br>
+Text Analytics with Python [下载](http://yimuhe.com/file-4166791.html)<br>
 ### Machine Learning
 Machine Learning in Java [下载](http://yimuhe.com/file-4166762.html)<br>
+Building Machine Learning Systems with Python [下载](http://yimuhe.com/file-4166779.html)<br>
+Python for Probability, Statistics, and Machine Learning [下载](http://yimuhe.com/file-4166789.html)<br>
+Advanced Machine Learning with Python [下载](http://yimuhe.com/file-4166793.html)<br>
 ### Deep Learning
 Java Deep Learning Essentials [下载](http://yimuhe.com/file-4166760.html)<br>
 Autonomous Robotics and Deep Learning [下载](http://yimuhe.com/file-4166606.html)<br>
 Automatic Speech Recognition - A Deep Learning Approach [下载](http://yimuhe.com/file-4166605.html)<br>
+### Data Mining
+Learning Data Mining With Python [下载](http://yimuhe.com/file-4166796.html)<br>
 
 ## Version Control
 ### Git
@@ -161,3 +162,6 @@ The New Shop Class [下载](http://yimuhe.com/file-4166699.html)<br>
 Mastering Embedded Linux Programming [下载](http://yimuhe.com/file-4166767.html)<br>
 Becoming Functional [下载](http://yimuhe.com/file-4166608.html)<br>
 Becoming a Better Programmer [下载](http://yimuhe.com/file-4166607.html)<br>
+OpenCV for Secret Agents [下载](http://yimuhe.com/file-4166775.html)<br>
+Getting Started with PowerShell [下载](http://yimuhe.com/file-4166776.html)<br>
+Mastering PowerShell [下载](http://yimuhe.com/file-4166777.html)<br>
