@@ -11,6 +11,7 @@
   * [Front-End 前端](#front-end)
   * [Database 数据库](#database)
   * [Spring MVC](#spring-mvc)
+  * [Web Scraping 网络爬虫](#web-scraping)
 * [Big Data 大数据](#big-data)
   * [Hadoop](#hadoop)
   * [HBase](#hbase)
@@ -122,6 +123,7 @@ Thinking With Data [下载](http://yimuhe.com/file-4166617.html)<br>
 Data Science for Business [下载](http://yimuhe.com/file-4166610.html)<br>
 Python for DataAnalysis [下载](http://yimuhe.com/file-4166788.html)<br>
 Python Data Analysis [下载](http://yimuhe.com/file-4166799.html)<br>
+Exploratory Data Analysis with R [下载](http://yimuhe.com/file-4166808.html)<br>
 Natural Language Processing With Python [下载](http://yimuhe.com/file-4166784.html)<br>
 Text Analytics with Python [下载](http://yimuhe.com/file-4166791.html)<br>
 ### Machine Learning
