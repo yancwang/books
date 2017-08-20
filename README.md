@@ -68,7 +68,7 @@ Python Algorithms [下载](http://yimuhe.com/file-4166787.html)<br>
 Pattern-Oriented Software Architecture [下载](http://yimuhe.com/file-4166615.html)<br>
 Design Patterns, Elements of Reusable Object-Oriented Software [下载](http://yimuhe.com/file-4166752.html)<br>
 Head First Design Patterns [下载](http://yimuhe.com/file-4166755.html)<br>
-Head First Object-Oriented Analysis and Design [下载](http://yimuhe.com/file-4166755.html)<br>
+Head First Object-Oriented Analysis and Design [下载](http://yimuhe.com/file-4166756.html)<br>
 
 ## Web Development
 Mean Web Development [下载](http://yimuhe.com/file-4166769.html)<br>
