@@ -48,8 +48,8 @@ Learn Python [下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [下载](http://yimuhe.com/file-4166797.html)<br>
 Numerical Python [下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [下载](http://yimuhe.com/file-4166786.html)<br>
-Python Data Visualization Cookbook [下载]()<br>
-Python Machine Learning [下载]()<br>
+Python Data Visualization Cookbook [下载](http://yimuhe.com/file-4166810.html)<br>
+Python Machine Learning [下载](http://yimuhe.com/file-4166811.html)<br>
 ### C++
 C++ How to Program [下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [下载](http://yimuhe.com/file-4166718.html)<br>
