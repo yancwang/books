@@ -5,6 +5,7 @@
   * [Python](#python)
   * [C++](#c)
   * [R](#r)
+  * [C#](#c-1
 * [Algorithm 算法](#algorithm)
 * [Design Pattern 程序设计](#design-pattern)
 * [Web Development 网络编程](#web-development)
@@ -20,6 +21,7 @@
   * [Neo4j](#neo4j)
   * [Scala](#scala)
   * [AWS](#aws)
+  * [Mahout](#mahout)
 * [DataScience 数据科学](#datascience)
   * [Data Analysis 数据分析](#data-analysis)
   * [Machine Learning 机器学习](#machine-learning)
@@ -80,6 +82,7 @@ Pattern-Oriented Software Architecture [Download 下载](http://yimuhe.com/file-
 
 ## Web Development
 Django By Example [Download 下载](http://yimuhe.com/file-4166794.html)<br>
+Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.html)<br>
 Mean Web Development [Download 下载](http://yimuhe.com/file-4166769.html)<br>
 Python Web Development with Django [Download 下载](http://yimuhe.com/file-4166790.html)<br>
 ### Front-End
@@ -89,7 +92,9 @@ Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.c
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
 jQuery in Action 2nd Edition [Download 下载](http://yimuhe.com/file-4166613.html)<br>
 Mastering Responsive Web Design [Download 下载](http://yimuhe.com/file-4166743.html)<br>
+Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 RESTful Java Web Services - Second Edition [Download 下载](http://yimuhe.com/file-4166763.html)<br>
+Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
 The Modern Web [Download 下载](http://yimuhe.com/file-4166741.html)<br>
 ### Database
 Head First PHP and MySQL [Download 下载](http://yimuhe.com/file-4166611.html)<br>
@@ -125,6 +130,8 @@ Neo4j in Action [Download 下载](http://yimuhe.com/file-4166614.html)<br>
 Scala in Action [Download 下载](http://yimuhe.com/file-4166616.html)<br>
 ### AWS
 Learning AWS [Download 下载](http://yimuhe.com/file-4166702.html)<br>
+### Mahout
+Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<br>
 
 ## DataScience
 ### Data Analysis
@@ -199,8 +206,4 @@ Getting Started with PowerShell [Download 下载](http://yimuhe.com/file-4166776
 Mastering PowerShell [Download 下载](http://yimuhe.com/file-4166777.html)<br>
 Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
-Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.html)<br>
-Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<br>
-Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
-Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
