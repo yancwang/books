@@ -45,7 +45,7 @@ Expert Python Programming [下载](http://yimuhe.com/file-4166795.html)<br>
 Learn Python The Hard Way [下载](http://yimuhe.com/file-4166782.html)<br>
 Learn Python [下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [下载](http://yimuhe.com/file-4166797.html)<br>
-Numerical Python [下载](Numerical Python)<br>
+Numerical Python [下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [下载](http://yimuhe.com/file-4166786.html)<br>
 Python Data Visualization Cookbook [下载]()<br>
 Python Machine Learning [下载]()<br>
