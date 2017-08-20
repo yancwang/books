@@ -167,3 +167,4 @@ Becoming a Better Programmer [下载](http://yimuhe.com/file-4166607.html)<br>
 OpenCV for Secret Agents [下载](http://yimuhe.com/file-4166775.html)<br>
 Getting Started with PowerShell [下载](http://yimuhe.com/file-4166776.html)<br>
 Mastering PowerShell [下载](http://yimuhe.com/file-4166777.html)<br>
+Learning Bayesian Models With R [下载](http://yimuhe.com/file-4166809.html)<br>
