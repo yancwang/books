@@ -6,6 +6,7 @@
   * [C++](#c)
   * [R](#r)
   * [C#](#c-1)
+  * [Scala](#scala)
 * [Algorithm 算法](#algorithm)
 * [Design Pattern 程序设计](#design-pattern)
 * [Web Development 网络编程](#web-development)
@@ -19,7 +20,6 @@
   * [MongoDB](#mongodb)
   * [Cassandra](#cassandra)
   * [Neo4j](#neo4j)
-  * [Scala](#scala)
   * [AWS](#aws)
   * [Mahout](#mahout)
 * [DataScience 数据科学](#datascience)
@@ -69,6 +69,8 @@ Mastering Social Media Mining With R [Download 下载](http://yimuhe.com/file-41
 ### C#
 C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
 Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
+### Scala
+Scala in Action [Download 下载](http://yimuhe.com/file-4166616.html)<br>
 
 ## Algorithm
 Algorithm Essentials-Java [Download 下载](http://yimuhe.com/file-4166600.html)<br>
@@ -130,8 +132,6 @@ Beginning Apache Cassandra Development [Download 下载](http://yimuhe.com/file-
 Cassandra The Definitive Guide [Download 下载](http://yimuhe.com/file-4166751.html)<br>
 ### Neo4j
 Neo4j in Action [Download 下载](http://yimuhe.com/file-4166614.html)<br>
-### Scala
-Scala in Action [Download 下载](http://yimuhe.com/file-4166616.html)<br>
 ### AWS
 Learning AWS [Download 下载](http://yimuhe.com/file-4166702.html)<br>
 ### Mahout
