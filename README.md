@@ -214,3 +214,33 @@ Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
 OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
+AngularJS by Example [Download 下载]()<br>
+AngularJS UI Development [Download 下载]()<br>
+Arduino Robotic Projects [Download 下载]()<br>
+Blender 3D By Example [Download 下载]()<br>
+Blueprints Visual Scripting for Unreal Engine [Download 下载]()<br>
+Building a Home Security System with Raspberry Pi [Download 下载]()<br>
+Building Business Websites with Squarespace 7 [Download 下载]()<br>
+Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载]()<br>
+Clean Data [Download 下载]()<br>
+Effective Python Penetration Testing [Download 下载]()<br>
+Expert Python Programming - Second Edition [Download 下载]()<br>
+Flask By Example [Download 下载]()<br>
+Go Programming Blueprints [Download 下载]()<br>
+Kali Linux 2 Windows Penetration Testing [Download 下载]()<br>
+Kali Linux Cookbook [Download 下载]()<br>
+Kali Linux \x96 Assuring Security by Penetration Testing [Download 下载]()<br>
+Learning JavaScript Data Structures and Algorithms [Download 下载]()<br>
+Learning jQuery - Fourth Edition [Download 下载]()<br>
+Learning Linux Binary Analysis [Download 下载]()<br>
+Learning Neo4j [Download 下载]()<br>
+Learning Object-Oriented Programming [Download 下载]()<br>
+Learning PHP 7 [Download 下载]()<br>
+Learning Probabilistic Graphical Models in R [Download 下载]()<br>
+Learning Python Application Development [Download 下载]()<br>
+Learning Python for Forensics [Download 下载]()<br>
+Learning Reactive Programming with Java 8 [Download 下载]()<br>
+Learning Robotics Using Python [Download 下载]()<br>
+Learning Web Development with Bootstrap and AngularJS [Download 下载]()<br>
+Machine Learning with R - Second Edition [Download 下载]()<br>
+Mastering D3.js [Download 下载]()<br>
