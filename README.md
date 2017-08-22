@@ -46,10 +46,14 @@ Android Programming for Beginners [Download 下载](http://yimuhe.com/file-41672
 ### Python
 Beginning Python From Novice to Professional 2nd Edition [Download 下载](http://yimuhe.com/file-4166778.html)<br>
 Core Python Applications Programming [Download 下载](http://yimuhe.com/file-4166780.html)<br>
+Effective Python Penetration Testing [Download 下载](http://yimuhe.com/file-4167537.html)<br>
 Expert Python Programming [Download 下载](http://yimuhe.com/file-4166795.html)<br>
+Expert Python Programming - Second Edition [Download 下载](http://yimuhe.com/file-4167538.html)<br>
 Learn Python The Hard Way [Download 下载](http://yimuhe.com/file-4166782.html)<br>
 Learn Python [Download 下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [Download 下载](http://yimuhe.com/file-4166797.html)<br>
+Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
+Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
 Numerical Python [Download 下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [Download 下载](http://yimuhe.com/file-4166786.html)<br>
 Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
@@ -65,6 +69,7 @@ The C++ Programming Language [Download 下载](http://yimuhe.com/down-4166721.ht
 Automated Trading with R [Download 下载](http://yimuhe.com/file-4166814.html)<br>
 Building a Recommendation System with R [Download 下载](http://yimuhe.com/file-4166815.html)<br>
 Learning Bayesian Models With R [Download下载](http://yimuhe.com/file-4166809.html)<br>
+Learning Probabilistic Graphical Models in R [Download 下载](http://yimuhe.com/file-4167550.html)<br>
 Mastering Social Media Mining With R [Download 下载](http://yimuhe.com/file-4166816.html)<br>
 ### C#
 C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
@@ -82,6 +87,7 @@ Python Algorithms [Download 下载](http://yimuhe.com/file-4166787.html)<br>
 Design Patterns, Elements of Reusable Object-Oriented Software [Download 下载](http://yimuhe.com/file-4166752.html)<br>
 Head First Design Patterns [Download 下载](http://yimuhe.com/file-4166755.html)<br>
 Head First Object-Oriented Analysis and Design [Download 下载](http://yimuhe.com/file-4166756.html)<br>
+Learning Object-Oriented Programming [Download 下载](http://yimuhe.com/file-4167548.html)<br>
 Pattern-Oriented Software Architecture [Download 下载](http://yimuhe.com/file-4166615.html)<br>
 
 ## Web Development
@@ -90,6 +96,7 @@ Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.htm
 Mean Web Development [Download 下载](http://yimuhe.com/file-4166769.html)<br>
 Python Web Development with Django [Download 下载](http://yimuhe.com/file-4166790.html)<br>
 The Modern Web [Download 下载](http://yimuhe.com/file-4166741.html)<br>
+Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
 ### Front-End
 AngularJS Web Application Development Cookbook [Download 下载](http://yimuhe.com/file-4166835.html)<br>
 Filthy Rich Clients [Download 下载](http://yimuhe.com/file-4166754.html)<br>
@@ -97,6 +104,7 @@ Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.c
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
 jQuery in Action 2nd Edition [Download 下载](http://yimuhe.com/file-4166613.html)<br>
 Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167202.html)<br>
+Mastering D3.js [Download 下载](http://yimuhe.com/file-4167558.html)<br>
 Mastering Responsive Web Design [Download 下载](http://yimuhe.com/file-4166743.html)<br>
 Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 RESTful Java Web Services - Second Edition [Download 下载](http://yimuhe.com/file-4166763.html)<br>
@@ -131,6 +139,7 @@ The definitive guide to MongoDB [Download 下载](http://yimuhe.com/file-4166774
 Beginning Apache Cassandra Development [Download 下载](http://yimuhe.com/file-4166703.html)<br>
 Cassandra The Definitive Guide [Download 下载](http://yimuhe.com/file-4166751.html)<br>
 ### Neo4j
+Learning Neo4j [Download 下载](http://yimuhe.com/file-4167547.html)<br>
 Neo4j in Action [Download 下载](http://yimuhe.com/file-4166614.html)<br>
 ### AWS
 Learning AWS [Download 下载](http://yimuhe.com/file-4166702.html)<br>
@@ -139,6 +148,7 @@ Mahout in Action (2012) [Download 下载](http://yimuhe.com/file-4167186.html)<b
 
 ## DataScience
 ### Data Analysis
+Clean Data [Download 下载](http://yimuhe.com/file-4167536.html)<br>
 Data Science for Business [Download 下载](http://yimuhe.com/file-4166610.html)<br>
 Exploratory Data Analysis with R [Download 下载](http://yimuhe.com/file-4166808.html)<br>
 Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
@@ -153,6 +163,7 @@ Thinking With Data [Download 下载](http://yimuhe.com/file-4166617.html)<br>
 Advanced Machine Learning with Python [Download 下载](http://yimuhe.com/file-4166793.html)<br>
 Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4166779.html)<br>
 Machine Learning in Java [Download 下载](http://yimuhe.com/file-4166762.html)<br>
+Machine Learning with R - Second Edition [Download 下载](http://yimuhe.com/file-4167557.html)<br>
 Python for Probability, Statistics, and Machine Learning [Download 下载](http://yimuhe.com/file-4166789.html)<br>
 Python Machine Learning [Download 下载](http://yimuhe.com/file-4166811.html)<br>
 ### Deep Learning
@@ -163,9 +174,9 @@ R Deep Learning Essentials [Download 下载](http://yimuhe.com/file-4167223.html
 ### Data Mining
 Learning Data Mining With Python [Download 下载](http://yimuhe.com/file-4166796.html)<br>
 ### Data visualization
+Beginning Python Visualization [Download 下载](http://yimuhe.com/file-4166836.html)<br>
 Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166810.html)<br>
 R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
-Beginning Python Visualization [Download 下载](http://yimuhe.com/file-4166836.html)<br>
 
 ## Version Control
 ### Git
@@ -222,10 +233,8 @@ Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.co
 Building a Home Security System with Raspberry Pi [Download 下载](http://yimuhe.com/file-4167533.html)<br>
 Building Business Websites with Squarespace 7 [Download 下载](http://yimuhe.com/file-4167534.html)<br>
 Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
-Clean Data [Download 下载](http://yimuhe.com/file-4167536.html)<br>
-Effective Python Penetration Testing [Download 下载](http://yimuhe.com/file-4167537.html)<br>
-Expert Python Programming - Second Edition [Download 下载](http://yimuhe.com/file-4167538.html)<br>
-Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
+
+
 Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
 Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
 Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
@@ -233,14 +242,12 @@ Kali Linux Assuring Security by Penetration Testing [Download 下载](http://yim
 Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
 Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
 Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
-Learning Neo4j [Download 下载](http://yimuhe.com/file-4167547.html)<br>
-Learning Object-Oriented Programming [Download 下载](http://yimuhe.com/file-4167548.html)<br>
+
+
 Learning PHP 7 [Download 下载](http://yimuhe.com/file-4167549.html)<br>
-Learning Probabilistic Graphical Models in R [Download 下载](http://yimuhe.com/file-4167550.html)<br>
-Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
-Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
+
+
 Learning Reactive Programming with Java 8 [Download 下载](http://yimuhe.com/file-4167554.html)<br>
 Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
-Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167556.html)<br>
-Machine Learning with R - Second Edition [Download 下载](http://yimuhe.com/file-4167557.html)<br>
-Mastering D3.js [Download 下载](http://yimuhe.com/file-4167558.html)<br>
+
+
