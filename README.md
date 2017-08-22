@@ -244,7 +244,7 @@ Arduino Robotic Projects [Download 下载](http://yimuhe.com/file-4167530.html)<
 ## 3D Printing
 3D Printed Science Projects [Download 下载](http://yimuhe.com/file-4166695.html)<br>
 3D printing of polymer matrix composites-A review and prospective [Download 下载](http://yimuhe.com/file-4166696.html)<br>
-3D printing of smart materials-A review on recent progresses in 4D printing.pdf [Download 下载](http://yimuhe.com/file-4166697.html)<br>
+3D printing of smart materials-A review on recent progresses in 4D printing [Download 下载](http://yimuhe.com/file-4166697.html)<br>
 Mastering 3D Printing [Download 下载](http://yimuhe.com/file-4166698.html)<br>
 The New Shop Class [Download 下载](http://yimuhe.com/file-4166699.html)<br>
 
