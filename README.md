@@ -215,19 +215,19 @@ Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
 OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
 AngularJS by Example [Download 下载]()<br>
-AngularJS UI Development [Download 下载]()<br>
-Arduino Robotic Projects [Download 下载]()<br>
-Blender 3D By Example [Download 下载]()<br>
-Blueprints Visual Scripting for Unreal Engine [Download 下载]()<br>
-Building a Home Security System with Raspberry Pi [Download 下载]()<br>
-Building Business Websites with Squarespace 7 [Download 下载]()<br>
-Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载]()<br>
-Clean Data [Download 下载]()<br>
-Effective Python Penetration Testing [Download 下载]()<br>
-Expert Python Programming - Second Edition [Download 下载]()<br>
-Flask By Example [Download 下载]()<br>
-Go Programming Blueprints [Download 下载]()<br>
-Kali Linux 2 Windows Penetration Testing [Download 下载]()<br>
+AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
+Arduino Robotic Projects [Download 下载](http://yimuhe.com/file-4167530.html)<br>
+Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
+Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.com/file-4167532.html)<br>
+Building a Home Security System with Raspberry Pi [Download 下载](http://yimuhe.com/file-4167533.html)<br>
+Building Business Websites with Squarespace 7 [Download 下载](http://yimuhe.com/file-4167534.html)<br>
+Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
+Clean Data [Download 下载](http://yimuhe.com/file-4167536.html)<br>
+Effective Python Penetration Testing [Download 下载](http://yimuhe.com/file-4167537.html)<br>
+Expert Python Programming - Second Edition [Download 下载](http://yimuhe.com/file-4167538.html)<br>
+Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
+Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
+Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
 Kali Linux Cookbook [Download 下载]()<br>
 Kali Linux \x96 Assuring Security by Penetration Testing [Download 下载]()<br>
 Learning JavaScript Data Structures and Algorithms [Download 下载]()<br>
