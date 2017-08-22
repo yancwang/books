@@ -214,7 +214,7 @@ Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
 OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
-AngularJS by Example [Download 下载]()<br>
+AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
 AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
 Arduino Robotic Projects [Download 下载](http://yimuhe.com/file-4167530.html)<br>
 Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
@@ -228,19 +228,19 @@ Expert Python Programming - Second Edition [Download 下载](http://yimuhe.com/f
 Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
 Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
 Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
-Kali Linux Cookbook [Download 下载]()<br>
+Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
 Kali Linux \x96 Assuring Security by Penetration Testing [Download 下载]()<br>
-Learning JavaScript Data Structures and Algorithms [Download 下载]()<br>
-Learning jQuery - Fourth Edition [Download 下载]()<br>
-Learning Linux Binary Analysis [Download 下载]()<br>
-Learning Neo4j [Download 下载]()<br>
-Learning Object-Oriented Programming [Download 下载]()<br>
-Learning PHP 7 [Download 下载]()<br>
-Learning Probabilistic Graphical Models in R [Download 下载]()<br>
-Learning Python Application Development [Download 下载]()<br>
-Learning Python for Forensics [Download 下载]()<br>
-Learning Reactive Programming with Java 8 [Download 下载]()<br>
-Learning Robotics Using Python [Download 下载]()<br>
-Learning Web Development with Bootstrap and AngularJS [Download 下载]()<br>
-Machine Learning with R - Second Edition [Download 下载]()<br>
-Mastering D3.js [Download 下载]()<br>
+Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
+Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
+Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
+Learning Neo4j [Download 下载](http://yimuhe.com/file-4167547.html)<br>
+Learning Object-Oriented Programming [Download 下载](http://yimuhe.com/file-4167548.html)<br>
+Learning PHP 7 [Download 下载](http://yimuhe.com/file-4167549.html)<br>
+Learning Probabilistic Graphical Models in R [Download 下载](http://yimuhe.com/file-4167550.html)<br>
+Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
+Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
+Learning Reactive Programming with Java 8 [Download 下载](http://yimuhe.com/file-4167554.html)<br>
+Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
+Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167556.html)<br>
+Machine Learning with R - Second Edition [Download 下载](http://yimuhe.com/file-4167557.html)<br>
+Mastering D3.js [Download 下载](http://yimuhe.com/file-4167558.html)<br>
