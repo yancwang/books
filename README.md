@@ -112,20 +112,22 @@ Mean Web Development [Download 下载](http://yimuhe.com/file-4166769.html)<br>
 Python Web Development with Django [Download 下载](http://yimuhe.com/file-4166790.html)<br>
 The Modern Web [Download 下载](http://yimuhe.com/file-4166741.html)<br>
 ### Front-End
-AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
-AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
-AngularJS Web Application Development Cookbook [Download 下载](http://yimuhe.com/file-4166835.html)<br>
 Filthy Rich Clients [Download 下载](http://yimuhe.com/file-4166754.html)<br>
 Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166742.html)<br>
-JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
-jQuery in Action 2nd Edition [Download 下载](http://yimuhe.com/file-4166613.html)<br>
-Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
-Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167202.html)<br>
 Mastering D3.js [Download 下载](http://yimuhe.com/file-4167558.html)<br>
 Mastering Responsive Web Design [Download 下载](http://yimuhe.com/file-4166743.html)<br>
 Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
 RESTful Java Web Services - Second Edition [Download 下载](http://yimuhe.com/file-4166763.html)<br>
+#### AngularJS
+AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
+AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
+AngularJS Web Application Development Cookbook [Download 下载](http://yimuhe.com/file-4166835.html)<br>
+Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167202.html)<br>
 Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
+#### jQuery
+JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
+jQuery in Action 2nd Edition [Download 下载](http://yimuhe.com/file-4166613.html)<br>
+Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
 ### Database
 Head First PHP and MySQL [Download 下载](http://yimuhe.com/file-4166611.html)<br>
 ### Spring MVC
