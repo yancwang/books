@@ -196,11 +196,11 @@ Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166
 R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
 
 ## Linux
-Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
 Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
 Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
 Kali Linux Assuring Security by Penetration Testing [Download 下载](http://yimuhe.com/file-4167563.html)<br>
 Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
+Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
 
 ## Version Control
 ### Git
