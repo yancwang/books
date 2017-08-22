@@ -30,6 +30,7 @@
   * [Machine Learning 机器学习](#machine-learning)
   * [Deep Learning 深度学习](#deep-learning)
   * [Data visualization 数据可视化](#data-visualization)
+* [Linux](#linux)
 * [Version Control 版本控制](#version-control)
   * [Git](#git)
 * [Docker](#docker)
