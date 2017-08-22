@@ -229,7 +229,7 @@ Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
 Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
 Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
 Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
-Kali Linux \x96 Assuring Security by Penetration Testing [Download 下载]()<br>
+Kali Linux Assuring Security by Penetration Testing [Download 下载](http://yimuhe.com/file-4167563.html)<br>
 Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
 Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
 Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
