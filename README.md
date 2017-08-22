@@ -43,6 +43,9 @@ Java Concurrency in Practice [Download 下载](http://yimuhe.com/file-4166758.ht
 Java The Complete Reference Ninth Edition [Download 下载](http://yimuhe.com/file-4166759.html)<br>
 Learning Java By Building Android Games [Download 下载](http://yimuhe.com/file-4166761.html)<br>
 Android Programming for Beginners [Download 下载](http://yimuhe.com/file-4167220.html)<br>
+Learning Reactive Programming with Java 8 [Download 下载](http://yimuhe.com/file-4167554.html)<br>
+### JavaScript
+Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
 ### Python
 Beginning Python From Novice to Professional 2nd Edition [Download 下载](http://yimuhe.com/file-4166778.html)<br>
 Core Python Applications Programming [Download 下载](http://yimuhe.com/file-4166780.html)<br>
@@ -54,6 +57,7 @@ Learn Python [Download 下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [Download 下载](http://yimuhe.com/file-4166797.html)<br>
 Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
 Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
+Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
 Numerical Python [Download 下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [Download 下载](http://yimuhe.com/file-4166786.html)<br>
 Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
@@ -76,6 +80,10 @@ C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http:
 Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
 ### Scala
 Scala in Action [Download 下载](http://yimuhe.com/file-4166616.html)<br>
+### Go
+Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
+### PHP
+Learning PHP 7 [Download 下载](http://yimuhe.com/file-4167549.html)<br>
 
 ## Algorithm
 Algorithm Essentials-Java [Download 下载](http://yimuhe.com/file-4166600.html)<br>
@@ -91,18 +99,22 @@ Learning Object-Oriented Programming [Download 下载](http://yimuhe.com/file-41
 Pattern-Oriented Software Architecture [Download 下载](http://yimuhe.com/file-4166615.html)<br>
 
 ## Web Development
+Building Business Websites with Squarespace 7 [Download 下载](http://yimuhe.com/file-4167534.html)<br>
 Django By Example [Download 下载](http://yimuhe.com/file-4166794.html)<br>
+Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
 Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.html)<br>
 Mean Web Development [Download 下载](http://yimuhe.com/file-4166769.html)<br>
 Python Web Development with Django [Download 下载](http://yimuhe.com/file-4166790.html)<br>
 The Modern Web [Download 下载](http://yimuhe.com/file-4166741.html)<br>
-Flask By Example [Download 下载](http://yimuhe.com/file-4167539.html)<br>
 ### Front-End
+AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
+AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
 AngularJS Web Application Development Cookbook [Download 下载](http://yimuhe.com/file-4166835.html)<br>
 Filthy Rich Clients [Download 下载](http://yimuhe.com/file-4166754.html)<br>
 Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166742.html)<br>
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
 jQuery in Action 2nd Edition [Download 下载](http://yimuhe.com/file-4166613.html)<br>
+Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
 Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167202.html)<br>
 Mastering D3.js [Download 下载](http://yimuhe.com/file-4167558.html)<br>
 Mastering Responsive Web Design [Download 下载](http://yimuhe.com/file-4166743.html)<br>
@@ -178,6 +190,13 @@ Beginning Python Visualization [Download 下载](http://yimuhe.com/file-4166836.
 Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166810.html)<br>
 R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
 
+## Linux
+Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
+Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
+Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
+Kali Linux Assuring Security by Penetration Testing [Download 下载](http://yimuhe.com/file-4167563.html)<br>
+Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
+
 ## Version Control
 ### Git
 Git Version Control for Everyone [Download 下载](http://yimuhe.com/file-4166744.html)<br>
@@ -190,6 +209,7 @@ Mastering Docker [Download 下载](http://yimuhe.com/file-4166768.html)<br>
 
 ## Hardware
 ### Raspberry Pi
+Building a Home Security System with Raspberry Pi [Download 下载](http://yimuhe.com/file-4167533.html)<br>
 Experimenting with Raspberry Pi [Download 下载](http://yimuhe.com/file-4166818.html)<br>
 Hello Raspberry Pi [Download 下载](http://yimuhe.com/file-4166819.html)<br>
 Learn Raspberry Pi Programming with Python [Download 下载](http://yimuhe.com/file-4166820.html)<br>
@@ -215,7 +235,6 @@ The New Shop Class [Download 下载](http://yimuhe.com/file-4166699.html)<br>
 
 ---
 Advanced Penetration Testing for Highly-Secured Environments - Second Edition [Download 下载](http://yimuhe.com/file-4166834.html)<br>
-Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
 Becoming Functional [Download 下载](http://yimuhe.com/file-4166608.html)<br>
 Becoming a Better Programmer [Download 下载](http://yimuhe.com/file-4166607.html)<br>
 OpenCV for Secret Agents [Download 下载](http://yimuhe.com/file-4166775.html)<br>
@@ -225,29 +244,7 @@ Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Mastering Windows PowerShell Scripting [Download 下载](http://yimuhe.com/file-4166833.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
 OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
-AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
-AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
 Arduino Robotic Projects [Download 下载](http://yimuhe.com/file-4167530.html)<br>
 Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
 Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.com/file-4167532.html)<br>
-Building a Home Security System with Raspberry Pi [Download 下载](http://yimuhe.com/file-4167533.html)<br>
-Building Business Websites with Squarespace 7 [Download 下载](http://yimuhe.com/file-4167534.html)<br>
 Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
-
-
-Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
-Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
-Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
-Kali Linux Assuring Security by Penetration Testing [Download 下载](http://yimuhe.com/file-4167563.html)<br>
-Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
-Learning jQuery - Fourth Edition [Download 下载](http://yimuhe.com/file-4167545.html)<br>
-Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
-
-
-Learning PHP 7 [Download 下载](http://yimuhe.com/file-4167549.html)<br>
-
-
-Learning Reactive Programming with Java 8 [Download 下载](http://yimuhe.com/file-4167554.html)<br>
-Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
-
-
