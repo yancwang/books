@@ -33,6 +33,7 @@
 * [Version Control 版本控制](#version-control)
   * [Git](#git)
 * [Docker](#docker)
+* [PowerShell](#powershell)
 * [Hardware](#hardware)
   * [Raspberry Pi 树莓派](#raspberry-pi)
   * [Arduino](#arduino)
