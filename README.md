@@ -14,6 +14,7 @@
 * [Design Pattern 程序设计](#design-pattern)
 * [Web Development 网络编程](#web-development)
   * [Front-End 前端](#front-end)
+    * [AngularJS](#angularjs)
   * [Database 数据库](#database)
   * [Spring MVC](#spring-mvc)
   * [Web Scraping 网络爬虫](#web-scraping)
