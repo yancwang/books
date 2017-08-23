@@ -65,9 +65,15 @@ Learning Python [Download 下载](http://yimuhe.com/file-4166797.html)<br>
 Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
 Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
 Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
+Mastering Python Design Patterns [Download 下载](http://yimuhe.com/file-4169651.html)<br>
+Mastering Python [Download 下载](http://yimuhe.com/file-4169652.html)<br>
+Modern Python Cookbook [Download 下载](http://yimuhe.com/file-4169655.html)<br>
+Modular Programming with Python [Download 下载](http://yimuhe.com/file-4169656.html)<br>
 Numerical Python [Download 下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [Download 下载](http://yimuhe.com/file-4166786.html)<br>
 Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
+Python Geospatial Development - Third Edition [Download 下载](http://yimuhe.com/file-4169691.html)<br>
+Python GUI Programming Cookbook [Download 下载](http://yimuhe.com/file-4169692.html)<br>
 Python Recipes Handbook [Download 下载](http://yimuhe.com/file-4167194.html)<br>
 ### C++
 C++ How to Program [Download 下载](http://yimuhe.com/file-4166717.html)<br>
@@ -86,6 +92,7 @@ Mastering Social Media Mining With R [Download 下载](http://yimuhe.com/file-41
 C# 6 and .NET Core 1.0 Modern Cross-Platform Development [Download 下载](http://yimuhe.com/file-4167197.html)<br>
 Learning C# by Developing Games with Unity 5.x - Second Edition [Download 下载](http://yimuhe.com/file-4167177.html)<br>
 ### Scala
+Scala Design Patterns [Download 下载](http://yimuhe.com/file-4169699.html)<br>
 Scala in Action [Download 下载](http://yimuhe.com/file-4166616.html)<br>
 ### Go
 Go Programming Blueprints [Download 下载](http://yimuhe.com/file-4167540.html)<br>
@@ -113,13 +120,16 @@ Magento 2 Developer's Guide [Download 下载](http://yimuhe.com/file-4167180.htm
 Mean Web Development [Download 下载](http://yimuhe.com/file-4166769.html)<br>
 Python Web Development with Django [Download 下载](http://yimuhe.com/file-4166790.html)<br>
 The Modern Web [Download 下载](http://yimuhe.com/file-4166741.html)<br>
+Web Development with Django Cookbook [Download 下载](http://yimuhe.com/file-4169705.html)<br>
 ### Front-End
 Filthy Rich Clients [Download 下载](http://yimuhe.com/file-4166754.html)<br>
 Html5 Graphing and Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166742.html)<br>
 Mastering D3.js [Download 下载](http://yimuhe.com/file-4167558.html)<br>
 Mastering Responsive Web Design [Download 下载](http://yimuhe.com/file-4166743.html)<br>
 Node.js Design Patterns [Download 下载](http://yimuhe.com/file-4167191.html)<br>
+Responsive Web Design with HTML5 and CSS3 - Second Edition [Download 下载](http://yimuhe.com/file-4169696.html)<br>
 RESTful Java Web Services - Second Edition [Download 下载](http://yimuhe.com/file-4166763.html)<br>
+RESTful Web API Design with Node.js [Download 下载](http://yimuhe.com/file-4169697.html)<br>
 #### AngularJS
 AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
 AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
@@ -150,6 +160,7 @@ Hadoop with Python [Download 下载](http://yimuhe.com/file-4166781.html)<br>
 ### HBase
 HBase in Action [Download 下载](http://yimuhe.com/file-4166750.html)<br>
 ### MongoDB
+MongoDB Cookbook [Download 下载](http://yimuhe.com/file-4169657.html)<br>
 MongoDB for Java Developers [Download 下载](http://yimuhe.com/file-4167190.html)<br>
 MongoDB in Action, Second Edition [Download 下载](http://yimuhe.com/file-4166770.html)<br>
 Practical MongoDB Architecting, Developing, and Administering MongoDB [Download 下载](http://yimuhe.com/file-4166771.html)<br>
@@ -205,6 +216,7 @@ Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
 Kali Linux Assuring Security by Penetration Testing [Download 下载](http://yimuhe.com/file-4167563.html)<br>
 Learning Linux Binary Analysis [Download 下载](http://yimuhe.com/file-4167546.html)<br>
 Mastering Embedded Linux Programming [Download 下载](http://yimuhe.com/file-4166767.html)<br>
+Practical Linux Security Cookbook [Download 下载](http://yimuhe.com/file-4169689.html)<br>
 
 ## Version Control
 ### Git
@@ -229,6 +241,7 @@ Hello Raspberry Pi [Download 下载](http://yimuhe.com/file-4166819.html)<br>
 Learn Raspberry Pi Programming with Python [Download 下载](http://yimuhe.com/file-4166820.html)<br>
 Learning Raspberry Pi [Download 下载](http://yimuhe.com/file-4166829.html)<br>
 Raspberry Pi A Quick Start Guide [Download 下载](http://yimuhe.com/file-4166821.html)<br>
+Raspberry Pi By Example [Download 下载](http://yimuhe.com/file-4169694.html)<br>
 Raspberry Pi Cookbook [Download 下载](http://yimuhe.com/file-4166822.html)<br>
 Raspberry Pi IoT Projects [Download 下载](http://yimuhe.com/file-4166823.html)<br>
 Raspberry Pi Projects for Kids [Download 下载](http://yimuhe.com/file-4166830.html)<br>
@@ -259,33 +272,20 @@ OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167
 Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
 Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.com/file-4167532.html)<br>
 Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
-Mastering Hadoop [Download 下载]()<br>
-Mastering Julia [Download 下载]()<br>
-Mastering Machine Learning with scikit-learn [Download 下载]()<br>
-Mastering Python Design Patterns [Download 下载]()<br>
-Mastering Python [Download 下载]()<br>
-Mastering Unity 2D Game Development [Download 下载]()<br>
-Mastering Wireshark [Download 下载]()<br>
-Modern Python Cookbook [Download 下载]()<br>
-Modular Programming with Python [Download 下载]()<br>
-MongoDB Cookbook [Download 下载]()<br>
-Node.js Blueprints [Download 下载]()<br>
-OpenCV By Example [Download 下载]()<br>
-PostgreSQL 9 Admin Cookbook [Download 下载]()<br>
-Practical Digital Forensics [Download 下载]()<br>
-Practical Internet of Things Security [Download 下载]()<br>
-Practical Linux Security Cookbook [Download 下载]()<br>
-Practical Machine Learning [Download 下载]()<br>
-Python Data Analysis [Download 下载]()<br>
-Python Geospatial Development - Third Edition [Download 下载]()<br>
-Python GUI Programming Cookbook [Download 下载]()<br>
-R for Data Science [Download 下载]()<br>
-Raspberry Pi By Example [Download 下载]()<br>
-Responsive Web Design with HTML5 and CSS3 - Second Edition [Download 下载]()<br>
-RESTful Web API Design with Node.js [Download 下载]()<br>
-Rust Essentials [Download 下载]()<br>
-Scala Design Patterns [Download 下载]()<br>
-Spring Microservices [Download 下载]()<br>
-Tkinter GUI Application Development Blueprints [Download 下载]()<br>
-TypeScript Design Patterns [Download 下载]()<br>
-Web Development with Django Cookbook [Download 下载]()<br>
+Mastering Hadoop [Download 下载](http://yimuhe.com/file-4169648.html)<br>
+Mastering Julia [Download 下载](http://yimuhe.com/file-4169649.html)<br>
+Mastering Machine Learning with scikit-learn [Download 下载](http://yimuhe.com/file-4169650.html)<br>
+Mastering Unity 2D Game Development [Download 下载](http://yimuhe.com/file-4169653.html)<br>
+Mastering Wireshark [Download 下载](http://yimuhe.com/file-4169654.html)<br>
+Node.js Blueprints [Download 下载](http://yimuhe.com/file-4169658.html)<br>
+OpenCV By Example [Download 下载](http://yimuhe.com/file-4169659.html)<br>
+PostgreSQL 9 Admin Cookbook [Download 下载](http://yimuhe.com/file-4169712.html)<br>
+Practical Digital Forensics [Download 下载](http://yimuhe.com/file-4169664.html)<br>
+Practical Internet of Things Security [Download 下载](http://yimuhe.com/file-4169665.html)<br>
+Practical Machine Learning [Download 下载](http://yimuhe.com/file-4169690.html)<br>
+Python Data Analysis [Download 下载](http://yimuhe.com/file-4169713.html)<br>
+R for Data Science [Download 下载](http://yimuhe.com/file-4169693.html)<br>
+Rust Essentials [Download 下载](http://yimuhe.com/file-4169698.html)<br>
+Spring Microservices [Download 下载](http://yimuhe.com/file-4169700.html)<br>
+Tkinter GUI Application Development Blueprints [Download 下载](http://yimuhe.com/file-4169702.html)<br>
+TypeScript Design Patterns [Download 下载](http://yimuhe.com/file-4169704.html)<br>
