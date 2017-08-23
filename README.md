@@ -41,6 +41,7 @@
   * [Raspberry Pi 树莓派](#raspberry-pi)
   * [Arduino](#arduino)
 * [3D Printing 3D打印](#3d-printing)
+* [OpenCV](#opencv)
 ---
 ## Programming Language
 ### Java
@@ -157,6 +158,7 @@ Hadoop The Definitive Guide [Download 下载](http://yimuhe.com/file-4166749.htm
 Hadoop in Practice, Second Edition [Download 下载](http://yimuhe.com/file-4166748.html)<br>
 Hadoop in Action [Download 下载](http://yimuhe.com/file-4166747.html)<br>
 Hadoop with Python [Download 下载](http://yimuhe.com/file-4166781.html)<br>
+Mastering Hadoop [Download 下载](http://yimuhe.com/file-4169648.html)<br>
 ### HBase
 HBase in Action [Download 下载](http://yimuhe.com/file-4166750.html)<br>
 ### MongoDB
@@ -263,23 +265,23 @@ Arduino Robotic Projects [Download 下载](http://yimuhe.com/file-4167530.html)<
 Mastering 3D Printing [Download 下载](http://yimuhe.com/file-4166698.html)<br>
 The New Shop Class [Download 下载](http://yimuhe.com/file-4166699.html)<br>
 
+## OpenCV
+OpenCV By Example [Download 下载](http://yimuhe.com/file-4169659.html)<br>
+OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
+OpenCV for Secret Agents [Download 下载](http://yimuhe.com/file-4166775.html)<br>
+
 ---
 Advanced Penetration Testing for Highly-Secured Environments - Second Edition [Download 下载](http://yimuhe.com/file-4166834.html)<br>
 Becoming Functional [Download 下载](http://yimuhe.com/file-4166608.html)<br>
 Becoming a Better Programmer [Download 下载](http://yimuhe.com/file-4166607.html)<br>
-OpenCV for Secret Agents [Download 下载](http://yimuhe.com/file-4166775.html)<br>
 Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
-OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167222.html)<br>
 Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
 Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.com/file-4167532.html)<br>
 Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
-Mastering Hadoop [Download 下载](http://yimuhe.com/file-4169648.html)<br>
 Mastering Julia [Download 下载](http://yimuhe.com/file-4169649.html)<br>
 Mastering Unity 2D Game Development [Download 下载](http://yimuhe.com/file-4169653.html)<br>
 Mastering Wireshark [Download 下载](http://yimuhe.com/file-4169654.html)<br>
-Node.js Blueprints [Download 下载](http://yimuhe.com/file-4169658.html)<br>
-OpenCV By Example [Download 下载](http://yimuhe.com/file-4169659.html)<br>
 PostgreSQL 9 Admin Cookbook [Download 下载](http://yimuhe.com/file-4169712.html)<br>
 Practical Digital Forensics [Download 下载](http://yimuhe.com/file-4169664.html)<br>
 Practical Internet of Things Security [Download 下载](http://yimuhe.com/file-4169665.html)<br>
