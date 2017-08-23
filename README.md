@@ -188,6 +188,7 @@ Lean Analytics-Use Data to Build a Better Startup Faster [Download 下载](http:
 Natural Language Processing With Python [Download 下载](http://yimuhe.com/file-4166784.html)<br>
 Python for DataAnalysis [Download 下载](http://yimuhe.com/file-4166788.html)<br>
 Python Data Analysis [Download 下载](http://yimuhe.com/file-4166799.html)<br>
+R for Data Science [Download 下载](http://yimuhe.com/file-4169693.html)<br>
 Text Analytics with Python [Download 下载](http://yimuhe.com/file-4166791.html)<br>
 The Data Science Handbook [Download 下载](http://yimuhe.com/file-4166618.html)<br>
 Thinking With Data [Download 下载](http://yimuhe.com/file-4166617.html)<br>
@@ -196,6 +197,8 @@ Advanced Machine Learning with Python [Download 下载](http://yimuhe.com/file-4
 Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4166779.html)<br>
 Machine Learning in Java [Download 下载](http://yimuhe.com/file-4166762.html)<br>
 Machine Learning with R - Second Edition [Download 下载](http://yimuhe.com/file-4167557.html)<br>
+Mastering Machine Learning with scikit-learn [Download 下载](http://yimuhe.com/file-4169650.html)<br>
+Practical Machine Learning [Download 下载](http://yimuhe.com/file-4169690.html)<br>
 Python for Probability, Statistics, and Machine Learning [Download 下载](http://yimuhe.com/file-4166789.html)<br>
 Python Machine Learning [Download 下载](http://yimuhe.com/file-4166811.html)<br>
 ### Deep Learning
@@ -209,7 +212,6 @@ Learning Data Mining With Python [Download 下载](http://yimuhe.com/file-416679
 Beginning Python Visualization [Download 下载](http://yimuhe.com/file-4166836.html)<br>
 Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166810.html)<br>
 R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
-
 ## Linux
 Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
 Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
@@ -274,7 +276,6 @@ Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.co
 Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
 Mastering Hadoop [Download 下载](http://yimuhe.com/file-4169648.html)<br>
 Mastering Julia [Download 下载](http://yimuhe.com/file-4169649.html)<br>
-Mastering Machine Learning with scikit-learn [Download 下载](http://yimuhe.com/file-4169650.html)<br>
 Mastering Unity 2D Game Development [Download 下载](http://yimuhe.com/file-4169653.html)<br>
 Mastering Wireshark [Download 下载](http://yimuhe.com/file-4169654.html)<br>
 Node.js Blueprints [Download 下载](http://yimuhe.com/file-4169658.html)<br>
@@ -282,9 +283,6 @@ OpenCV By Example [Download 下载](http://yimuhe.com/file-4169659.html)<br>
 PostgreSQL 9 Admin Cookbook [Download 下载](http://yimuhe.com/file-4169712.html)<br>
 Practical Digital Forensics [Download 下载](http://yimuhe.com/file-4169664.html)<br>
 Practical Internet of Things Security [Download 下载](http://yimuhe.com/file-4169665.html)<br>
-Practical Machine Learning [Download 下载](http://yimuhe.com/file-4169690.html)<br>
-Python Data Analysis [Download 下载](http://yimuhe.com/file-4169713.html)<br>
-R for Data Science [Download 下载](http://yimuhe.com/file-4169693.html)<br>
 Rust Essentials [Download 下载](http://yimuhe.com/file-4169698.html)<br>
 Spring Microservices [Download 下载](http://yimuhe.com/file-4169700.html)<br>
 Tkinter GUI Application Development Blueprints [Download 下载](http://yimuhe.com/file-4169702.html)<br>
