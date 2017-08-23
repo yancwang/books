@@ -259,3 +259,33 @@ OpenCV Computer Vision with Python [Download 下载](http://yimuhe.com/file-4167
 Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
 Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.com/file-4167532.html)<br>
 Building Virtual Pentesting Labs for Advanced Penetration Testing [Download 下载](http://yimuhe.com/file-4167535.html)<br>
+Mastering Hadoop [Download 下载]()<br>
+Mastering Julia [Download 下载]()<br>
+Mastering Machine Learning with scikit-learn [Download 下载]()<br>
+Mastering Python Design Patterns [Download 下载]()<br>
+Mastering Python [Download 下载]()<br>
+Mastering Unity 2D Game Development [Download 下载]()<br>
+Mastering Wireshark [Download 下载]()<br>
+Modern Python Cookbook [Download 下载]()<br>
+Modular Programming with Python [Download 下载]()<br>
+MongoDB Cookbook [Download 下载]()<br>
+Node.js Blueprints [Download 下载]()<br>
+OpenCV By Example [Download 下载]()<br>
+PostgreSQL 9 Admin Cookbook [Download 下载]()<br>
+Practical Digital Forensics [Download 下载]()<br>
+Practical Internet of Things Security [Download 下载]()<br>
+Practical Linux Security Cookbook [Download 下载]()<br>
+Practical Machine Learning [Download 下载]()<br>
+Python Data Analysis [Download 下载]()<br>
+Python Geospatial Development - Third Edition [Download 下载]()<br>
+Python GUI Programming Cookbook [Download 下载]()<br>
+R for Data Science [Download 下载]()<br>
+Raspberry Pi By Example [Download 下载]()<br>
+Responsive Web Design with HTML5 and CSS3 - Second Edition [Download 下载]()<br>
+RESTful Web API Design with Node.js [Download 下载]()<br>
+Rust Essentials [Download 下载]()<br>
+Scala Design Patterns [Download 下载]()<br>
+Spring Microservices [Download 下载]()<br>
+Tkinter GUI Application Development Blueprints [Download 下载]()<br>
+TypeScript Design Patterns [Download 下载]()<br>
+Web Development with Django Cookbook [Download 下载]()<br>
