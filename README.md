@@ -3,6 +3,7 @@
 * [Programming Language 编程语言](#programming-language)
   * [Java](#java)
   * [JavaScript](#javascript)
+  * [TypeScript](#typescript)
   * [Python](#python)
   * [C++](#c)
   * [R](#r)
@@ -54,6 +55,9 @@ Android Programming for Beginners [Download 下载](http://yimuhe.com/file-41672
 Learning Reactive Programming with Java 8 [Download 下载](http://yimuhe.com/file-4167554.html)<br>
 ### JavaScript
 Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
+### TypeScript
+Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
+TypeScript Design Patterns [Download 下载](http://yimuhe.com/file-4169704.html)<br>
 ### Python
 Beginning Python From Novice to Professional 2nd Edition [Download 下载](http://yimuhe.com/file-4166778.html)<br>
 Core Python Applications Programming [Download 下载](http://yimuhe.com/file-4166780.html)<br>
@@ -274,7 +278,6 @@ OpenCV for Secret Agents [Download 下载](http://yimuhe.com/file-4166775.html)<
 Advanced Penetration Testing for Highly-Secured Environments - Second Edition [Download 下载](http://yimuhe.com/file-4166834.html)<br>
 Becoming Functional [Download 下载](http://yimuhe.com/file-4166608.html)<br>
 Becoming a Better Programmer [Download 下载](http://yimuhe.com/file-4166607.html)<br>
-Learning Typescript [Download 下载](http://yimuhe.com/file-4166832.html)<br>
 Pro Tableau A Step-by-Step Guide [Download 下载](http://yimuhe.com/file-4167192.html)<br>
 Blender 3D By Example [Download 下载](http://yimuhe.com/file-4167531.html)<br>
 Blueprints Visual Scripting for Unreal Engine [Download 下载](http://yimuhe.com/file-4167532.html)<br>
@@ -288,4 +291,3 @@ Practical Internet of Things Security [Download 下载](http://yimuhe.com/file-4
 Rust Essentials [Download 下载](http://yimuhe.com/file-4169698.html)<br>
 Spring Microservices [Download 下载](http://yimuhe.com/file-4169700.html)<br>
 Tkinter GUI Application Development Blueprints [Download 下载](http://yimuhe.com/file-4169702.html)<br>
-TypeScript Design Patterns [Download 下载](http://yimuhe.com/file-4169704.html)<br>
