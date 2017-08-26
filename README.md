@@ -70,12 +70,15 @@ Learning Python [Download 下载](http://yimuhe.com/file-4166797.html)<br>
 Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
 Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
 Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
-Mastering Python Design Patterns [Download 下载](http://yimuhe.com/file-4169651.html)<br>
+Mastering Object-oriented Python [Download 下载](http://yimuhe.com/file-4170328.html)<br>
 Mastering Python [Download 下载](http://yimuhe.com/file-4169652.html)<br>
+Mastering Python Design Patterns [Download 下载](http://yimuhe.com/file-4169651.html)<br>
+Mastering Python for Finance [Download 下载](http://yimuhe.com/file-4170329.html)<br>
 Modern Python Cookbook [Download 下载](http://yimuhe.com/file-4169655.html)<br>
 Modular Programming with Python [Download 下载](http://yimuhe.com/file-4169656.html)<br>
 Numerical Python [Download 下载](http://yimuhe.com/file-4166785.html)<br>
 Pro Python [Download 下载](http://yimuhe.com/file-4166786.html)<br>
+Python 3 Object-oriented Programming - Second Edition [Download 下载](http://yimuhe.com/file-4170341.html)<br>
 Python Game Programming By Example [Download 下载](http://yimuhe.com/file-4167193.html)<br>
 Python Geospatial Development - Third Edition [Download 下载](http://yimuhe.com/file-4169691.html)<br>
 Python GUI Programming Cookbook [Download 下载](http://yimuhe.com/file-4169692.html)<br>
@@ -140,6 +143,7 @@ AngularJS by Example [Download 下载](http://yimuhe.com/file-4167562.html)<br>
 AngularJS UI Development [Download 下载](http://yimuhe.com/file-4167529.html)<br>
 AngularJS Web Application Development Cookbook [Download 下载](http://yimuhe.com/file-4166835.html)<br>
 Learning Web Development with Bootstrap and AngularJS [Download 下载](http://yimuhe.com/file-4167202.html)<br>
+Mastering Web Application Development with AngularJS [Download 下载](http://yimuhe.com/file-4170330.html)<br>
 Switching to Angular 2 [Download 下载](http://yimuhe.com/file-4167195.html)<br>
 #### jQuery
 JavaScript and JQuery Interactive Front End Web Development by Jon Duckett [Download 下载](http://yimuhe.com/file-4166612.html)<br>
@@ -196,6 +200,7 @@ Clean Data [Download 下载](http://yimuhe.com/file-4167536.html)<br>
 Data Science for Business [Download 下载](http://yimuhe.com/file-4166610.html)<br>
 Exploratory Data Analysis with R [Download 下载](http://yimuhe.com/file-4166808.html)<br>
 Head First Data Analysis [Download 下载](http://yimuhe.com/file-4167176.html)<br>
+Haskell Data Analysis Cookbook [Download 下载](http://yimuhe.com/file-4170324.html)<br>
 Lean Analytics-Use Data to Build a Better Startup Faster [Download 下载](http://yimuhe.com/file-4167219.html)<br>
 Natural Language Processing With Python [Download 下载](http://yimuhe.com/file-4166784.html)<br>
 Python for DataAnalysis [Download 下载](http://yimuhe.com/file-4166788.html)<br>
@@ -210,6 +215,7 @@ Building Machine Learning Systems with Python [Download 下载](http://yimuhe.co
 Machine Learning in Java [Download 下载](http://yimuhe.com/file-4166762.html)<br>
 Machine Learning with R - Second Edition [Download 下载](http://yimuhe.com/file-4167557.html)<br>
 Mastering Machine Learning with scikit-learn [Download 下载](http://yimuhe.com/file-4169650.html)<br>
+Neural Network Programming with Java [Download 下载](http://yimuhe.com/file-4170332.html)<br>
 Practical Machine Learning [Download 下载](http://yimuhe.com/file-4169690.html)<br>
 Python for Probability, Statistics, and Machine Learning [Download 下载](http://yimuhe.com/file-4166789.html)<br>
 Python Machine Learning [Download 下载](http://yimuhe.com/file-4166811.html)<br>
@@ -224,6 +230,7 @@ Learning Data Mining With Python [Download 下载](http://yimuhe.com/file-416679
 Beginning Python Visualization [Download 下载](http://yimuhe.com/file-4166836.html)<br>
 Python Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166810.html)<br>
 R Data Visualization Cookbook [Download 下载](http://yimuhe.com/file-4166817.html)<br>
+
 ## Linux
 Kali Linux 2 Windows Penetration Testing [Download 下载](http://yimuhe.com/file-4167542.html)<br>
 Kali Linux Cookbook [Download 下载](http://yimuhe.com/file-4167543.html)<br>
@@ -301,21 +308,14 @@ Rust Essentials [Download 下载](http://yimuhe.com/file-4169698.html)<br>
 Spring Microservices [Download 下载](http://yimuhe.com/file-4169700.html)<br>
 Tkinter GUI Application Development Blueprints [Download 下载](http://yimuhe.com/file-4169702.html)<br>
 Advanced Penetration Testing for Highly-Secured Environments The Ultimate Security Guide [Download 下载](http://yimuhe.com/file-4170320.html)<br>
-Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4170322.html)<br>
 GeoServer Beginner's Guide [Download 下载](http://yimuhe.com/file-4170323.html)<br>
-Haskell Data Analysis Cookbook [Download 下载](http://yimuhe.com/file-4170324.html)<br>
 HTML5 and CSS3 Responsive Web Design Cookbook [Download 下载](http://yimuhe.com/file-4170325.html)<br>
 Linux Shell Scripting Cookbook, Second Edition [Download 下载](http://yimuhe.com/file-4170326.html)<br>
 Mastering Node.js [Download 下载](http://yimuhe.com/file-4170327.html)<br>
-Mastering Object-oriented Python [Download 下载](http://yimuhe.com/file-4170328.html)<br>
-Mastering Python for Finance [Download 下载](http://yimuhe.com/file-4170329.html)<br>
-Mastering Web Application Development with AngularJS [Download 下载](http://yimuhe.com/file-4170330.html)<br>
 Network Analysis using Wireshark Cookbook [Download 下载](http://yimuhe.com/file-4170331.html)<br>
-Neural Network Programming with Java [Download 下载](http://yimuhe.com/file-4170332.html)<br>
 OpenCV 3 Blueprints [Download 下载](http://yimuhe.com/file-4170333.html)<br>
 PostgreSQL Server Programming [Download 下载](http://yimuhe.com/file-4170334.html)<br>
 Procedural Content Generation for C++ Game Development [Download 下载](http://yimuhe.com/file-4170340.html)<br>
-Python 3 Object-oriented Programming - Second Edition [Download 下载](http://yimuhe.com/file-4170341.html)<br>
 scikit-learn Cookbook [Download 下载](http://yimuhe.com/file-4170344.html)<br>
 The Game Jam Survival Guide [Download 下载](http://yimuhe.com/file-4170345.html)<br>
 The Professional ScrumMaster's Handbook [Download 下载](http://yimuhe.com/file-4170346.html)<br>
