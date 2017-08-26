@@ -291,21 +291,21 @@ Practical Internet of Things Security [Download 下载](http://yimuhe.com/file-4
 Rust Essentials [Download 下载](http://yimuhe.com/file-4169698.html)<br>
 Spring Microservices [Download 下载](http://yimuhe.com/file-4169700.html)<br>
 Tkinter GUI Application Development Blueprints [Download 下载](http://yimuhe.com/file-4169702.html)<br>
-3D Printing Blueprints [Download 下载]()<br>
-Advanced Penetration Testing for Highly-Secured Environments The Ultimate Security Guide [Download 下载]()<br>
-Big Data Made Easy [Download 下载]()<br>
-Building Machine Learning Systems with Python [Download 下载]()<br>
-GeoServer Beginner's Guide [Download 下载]()<br>
-Haskell Data Analysis Cookbook [Download 下载]()<br>
-HTML5 and CSS3 Responsive Web Design Cookbook [Download 下载]()<br>
-Linux Shell Scripting Cookbook, Second Edition [Download 下载]()<br>
-Mastering Node.js [Download 下载]()<br>
-Mastering Object-oriented Python [Download 下载]()<br>
-Mastering Python for Finance [Download 下载]()<br>
-Mastering Web Application Development with AngularJS [Download 下载]()<br>
-Network Analysis using Wireshark Cookbook [Download 下载]()<br>
-Neural Network Programming with Java [Download 下载]()<br>
-OpenCV 3 Blueprints [Download 下载]()<br>
+3D Printing Blueprints [Download 下载](http://yimuhe.com/file-4170319.html)<br>
+Advanced Penetration Testing for Highly-Secured Environments The Ultimate Security Guide [Download 下载](http://yimuhe.com/file-4170320.html)<br>
+Big Data Made Easy [Download 下载](http://yimuhe.com/file-4170321.html)<br>
+Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4170322.html)<br>
+GeoServer Beginner's Guide [Download 下载](http://yimuhe.com/file-4170323.html)<br>
+Haskell Data Analysis Cookbook [Download 下载](http://yimuhe.com/file-4170324.html)<br>
+HTML5 and CSS3 Responsive Web Design Cookbook [Download 下载](http://yimuhe.com/file-4170325.html)<br>
+Linux Shell Scripting Cookbook, Second Edition [Download 下载](http://yimuhe.com/file-4170326.html)<br>
+Mastering Node.js [Download 下载](http://yimuhe.com/file-4170327.html)<br>
+Mastering Object-oriented Python [Download 下载](http://yimuhe.com/file-4170328.html)<br>
+Mastering Python for Finance [Download 下载](http://yimuhe.com/file-4170329.html)<br>
+Mastering Web Application Development with AngularJS [Download 下载](http://yimuhe.com/file-4170330.html)<br>
+Network Analysis using Wireshark Cookbook [Download 下载](http://yimuhe.com/file-4170331.html)<br>
+Neural Network Programming with Java [Download 下载](http://yimuhe.com/file-4170332.html)<br>
+OpenCV 3 Blueprints [Download 下载](http://yimuhe.com/file-4170333.html)<br>
 PostgreSQL Server Programming [Download 下载](http://yimuhe.com/file-4170334.html)<br>
 Practical Hadoop Ecosystem [Download 下载](http://yimuhe.com/file-4170335.html)<br>
 Practical Hadoop Migration [Download 下载](http://yimuhe.com/file-4170336.html)<br>
