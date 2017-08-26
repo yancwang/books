@@ -158,11 +158,17 @@ Web Scraping with Python - Ryan Mitchell [Download 下载](http://yimuhe.com/fil
 
 ## Big Data
 ### Hadoop
+Big Data Made Easy [Download 下载](http://yimuhe.com/file-4170321.html)<br>
 Hadoop The Definitive Guide [Download 下载](http://yimuhe.com/file-4166749.html)<br>
 Hadoop in Practice, Second Edition [Download 下载](http://yimuhe.com/file-4166748.html)<br>
 Hadoop in Action [Download 下载](http://yimuhe.com/file-4166747.html)<br>
 Hadoop with Python [Download 下载](http://yimuhe.com/file-4166781.html)<br>
 Mastering Hadoop [Download 下载](http://yimuhe.com/file-4169648.html)<br>
+Practical Hadoop Ecosystem [Download 下载](http://yimuhe.com/file-4170335.html)<br>
+Practical Hadoop Migration [Download 下载](http://yimuhe.com/file-4170336.html)<br>
+Practical Hadoop Security [Download 下载](http://yimuhe.com/file-4170337.html)<br>
+Pro Apache Hadoop [Download 下载](http://yimuhe.com/file-4170338.html)<br>
+Pro Hadoop Data Analytics [Download 下载](http://yimuhe.com/file-4170339.html)<br>
 ### HBase
 HBase in Action [Download 下载](http://yimuhe.com/file-4166750.html)<br>
 ### MongoDB
@@ -251,6 +257,8 @@ Learning Raspberry Pi [Download 下载](http://yimuhe.com/file-4166829.html)<br>
 Raspberry Pi A Quick Start Guide [Download 下载](http://yimuhe.com/file-4166821.html)<br>
 Raspberry Pi By Example [Download 下载](http://yimuhe.com/file-4169694.html)<br>
 Raspberry Pi Cookbook [Download 下载](http://yimuhe.com/file-4166822.html)<br>
+Raspberry Pi for Secret Agents - Second Edition [Download 下载](http://yimuhe.com/file-4170342.html)<br>
+Raspberry Pi Home Automation with Arduino [Download 下载](http://yimuhe.com/file-4170343.html)<br>
 Raspberry Pi IoT Projects [Download 下载](http://yimuhe.com/file-4166823.html)<br>
 Raspberry Pi Projects for Kids [Download 下载](http://yimuhe.com/file-4166830.html)<br>
 Raspberry Pi Projects For The Evi .Genius [Download 下载](http://yimuhe.com/file-4166824.html)<br>
@@ -263,6 +271,7 @@ Arduino Development Cookbook [Download 下载](http://yimuhe.com/file-4166700.ht
 Arduino Robotic Projects [Download 下载](http://yimuhe.com/file-4167530.html)<br>
 
 ## 3D Printing
+3D Printing Blueprints [Download 下载](http://yimuhe.com/file-4170319.html)<br>
 3D Printed Science Projects [Download 下载](http://yimuhe.com/file-4166695.html)<br>
 3D printing of polymer matrix composites-A review and prospective [Download 下载](http://yimuhe.com/file-4166696.html)<br>
 3D printing of smart materials-A review on recent progresses in 4D printing [Download 下载](http://yimuhe.com/file-4166697.html)<br>
@@ -291,9 +300,7 @@ Practical Internet of Things Security [Download 下载](http://yimuhe.com/file-4
 Rust Essentials [Download 下载](http://yimuhe.com/file-4169698.html)<br>
 Spring Microservices [Download 下载](http://yimuhe.com/file-4169700.html)<br>
 Tkinter GUI Application Development Blueprints [Download 下载](http://yimuhe.com/file-4169702.html)<br>
-3D Printing Blueprints [Download 下载](http://yimuhe.com/file-4170319.html)<br>
 Advanced Penetration Testing for Highly-Secured Environments The Ultimate Security Guide [Download 下载](http://yimuhe.com/file-4170320.html)<br>
-Big Data Made Easy [Download 下载](http://yimuhe.com/file-4170321.html)<br>
 Building Machine Learning Systems with Python [Download 下载](http://yimuhe.com/file-4170322.html)<br>
 GeoServer Beginner's Guide [Download 下载](http://yimuhe.com/file-4170323.html)<br>
 Haskell Data Analysis Cookbook [Download 下载](http://yimuhe.com/file-4170324.html)<br>
@@ -307,15 +314,8 @@ Network Analysis using Wireshark Cookbook [Download 下载](http://yimuhe.com/fi
 Neural Network Programming with Java [Download 下载](http://yimuhe.com/file-4170332.html)<br>
 OpenCV 3 Blueprints [Download 下载](http://yimuhe.com/file-4170333.html)<br>
 PostgreSQL Server Programming [Download 下载](http://yimuhe.com/file-4170334.html)<br>
-Practical Hadoop Ecosystem [Download 下载](http://yimuhe.com/file-4170335.html)<br>
-Practical Hadoop Migration [Download 下载](http://yimuhe.com/file-4170336.html)<br>
-Practical Hadoop Security [Download 下载](http://yimuhe.com/file-4170337.html)<br>
-Pro Apache Hadoop [Download 下载](http://yimuhe.com/file-4170338.html)<br>
-Pro Hadoop Data Analytics [Download 下载](http://yimuhe.com/file-4170339.html)<br>
 Procedural Content Generation for C++ Game Development [Download 下载](http://yimuhe.com/file-4170340.html)<br>
 Python 3 Object-oriented Programming - Second Edition [Download 下载](http://yimuhe.com/file-4170341.html)<br>
-Raspberry Pi for Secret Agents - Second Edition [Download 下载](http://yimuhe.com/file-4170342.html)<br>
-Raspberry Pi Home Automation with Arduino [Download 下载](http://yimuhe.com/file-4170343.html)<br>
 scikit-learn Cookbook [Download 下载](http://yimuhe.com/file-4170344.html)<br>
 The Game Jam Survival Guide [Download 下载](http://yimuhe.com/file-4170345.html)<br>
 The Professional ScrumMaster's Handbook [Download 下载](http://yimuhe.com/file-4170346.html)<br>
