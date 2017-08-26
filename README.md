@@ -306,18 +306,18 @@ Mastering Web Application Development with AngularJS [Download 下载]()<br>
 Network Analysis using Wireshark Cookbook [Download 下载]()<br>
 Neural Network Programming with Java [Download 下载]()<br>
 OpenCV 3 Blueprints [Download 下载]()<br>
-PostgreSQL Server Programming [Download 下载]()<br>
-Practical Hadoop Ecosystem [Download 下载]()<br>
-Practical Hadoop Migration [Download 下载]()<br>
-Practical Hadoop Security [Download 下载]()<br>
-Pro Apache Hadoop [Download 下载]()<br>
-Pro Hadoop Data Analytics [Download 下载]()<br>
-Procedural Content Generation for C++ Game Development [Download 下载]()<br>
-Python 3 Object-oriented Programming - Second Edition [Download 下载]()<br>
-Raspberry Pi for Secret Agents - Second Edition [Download 下载]()<br>
-Raspberry Pi Home Automation with Arduino [Download 下载]()<br>
-scikit-learn Cookbook [Download 下载]()<br>
-The Game Jam Survival Guide [Download 下载]()<br>
-The Professional ScrumMaster's Handbook [Download 下载]()<br>
-Unity 5 Game Optimization [Download 下载]()<br>
-Unity Shaders and Effects Cookbook [Download 下载]()<br>
+PostgreSQL Server Programming [Download 下载](http://yimuhe.com/file-4170334.html)<br>
+Practical Hadoop Ecosystem [Download 下载](http://yimuhe.com/file-4170335.html)<br>
+Practical Hadoop Migration [Download 下载](http://yimuhe.com/file-4170336.html)<br>
+Practical Hadoop Security [Download 下载](http://yimuhe.com/file-4170337.html)<br>
+Pro Apache Hadoop [Download 下载](http://yimuhe.com/file-4170338.html)<br>
+Pro Hadoop Data Analytics [Download 下载](http://yimuhe.com/file-4170339.html)<br>
+Procedural Content Generation for C++ Game Development [Download 下载](http://yimuhe.com/file-4170340.html)<br>
+Python 3 Object-oriented Programming - Second Edition [Download 下载](http://yimuhe.com/file-4170341.html)<br>
+Raspberry Pi for Secret Agents - Second Edition [Download 下载](http://yimuhe.com/file-4170342.html)<br>
+Raspberry Pi Home Automation with Arduino [Download 下载](http://yimuhe.com/file-4170343.html)<br>
+scikit-learn Cookbook [Download 下载](http://yimuhe.com/file-4170344.html)<br>
+The Game Jam Survival Guide [Download 下载](http://yimuhe.com/file-4170345.html)<br>
+The Professional ScrumMaster's Handbook [Download 下载](http://yimuhe.com/file-4170346.html)<br>
+Unity 5 Game Optimization [Download 下载](http://yimuhe.com/file-4170347.html)<br>
+Unity Shaders and Effects Cookbook [Download 下载](http://yimuhe.com/file-4170348.html)<br>
