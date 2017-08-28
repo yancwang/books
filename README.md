@@ -47,12 +47,12 @@
 ---
 ## Programming Language
 ### Java
+Android Programming for Beginners [Download 下载](http://yimuhe.com/file-4167220.html)<br>
 Effective Java 2nd Edition-Joshua Bloch [Download 下载](http://yimuhe.com/file-4166753.html)<br>
 Java A Beginner's Guide Sixth Edition [Download 下载](http://yimuhe.com/file-4166757.html)<br>
 Java Concurrency in Practice [Download 下载](http://yimuhe.com/file-4166758.html)<br>
 Java The Complete Reference Ninth Edition [Download 下载](http://yimuhe.com/file-4166759.html)<br>
 Learning Java By Building Android Games [Download 下载](http://yimuhe.com/file-4166761.html)<br>
-Android Programming for Beginners [Download 下载](http://yimuhe.com/file-4167220.html)<br>
 Learning Reactive Programming with Java 8 [Download 下载](http://yimuhe.com/file-4167554.html)<br>
 ### JavaScript
 Learning JavaScript Data Structures and Algorithms [Download 下载](http://yimuhe.com/file-4167544.html)<br>
