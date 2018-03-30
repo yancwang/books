@@ -69,6 +69,7 @@ Learn Python The Hard Way [Download 下载](http://yimuhe.com/file-4166782.html)
 Learn Python [Download 下载](http://yimuhe.com/file-4166783.html)<br>
 Learning Python [Download 下载](http://yimuhe.com/file-4166797.html)<br>
 Learning Python Application Development [Download 下载](http://yimuhe.com/file-4167552.html)<br>
+Learning Python Design Patterns - Second Edition [Download 下载](http://yimuhe.com/file-4243458.html)<br>
 Learning Python for Forensics [Download 下载](http://yimuhe.com/file-4167553.html)<br>
 Learning Robotics Using Python [Download 下载](http://yimuhe.com/file-4167555.html)<br>
 Mastering Object-oriented Python [Download 下载](http://yimuhe.com/file-4170328.html)<br>
@@ -85,6 +86,7 @@ Python Geospatial Development - Third Edition [Download 下载](http://yimuhe.co
 Python GUI Programming Cookbook [Download 下载](http://yimuhe.com/file-4169692.html)<br>
 Python Recipes Handbook [Download 下载](http://yimuhe.com/file-4167194.html)<br>
 scikit-learn Cookbook [Download 下载](http://yimuhe.com/file-4170344.html)<br>
+Scientific Computing with Python 3 [Download 下载](http://yimuhe.com/file-4243459.html)<br>
 ### C++
 C++ How to Program [Download 下载](http://yimuhe.com/file-4166717.html)<br>
 C++ Primer 5th edition [Download 下载](http://yimuhe.com/file-4166718.html)<br>
